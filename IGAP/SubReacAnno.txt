@@ -1,0 +1,733 @@
+Reaction_ID	Reaction_Names	Confidence_Score	References	Notes
+R32	25-hydroxyvitamin D3 transport in cytoplasm	2		"is found in blood --&gt; subsequently has to be transported but how? based on Vitamins, G.F.M. Ball,2004, Blackwell publishing, 1st ed (book) pg.193 IT"
+R51	"3,4-Dihydroxyphenylacetaldehyde:NAD+ oxidoreductase"	4	"PMID:11306106,PMID:2071588"	SAB
+R52	"3,4-Dihydroxyphenylacetaldehyde:NADP+ oxidoreductase"	4	"PMID:11306106,PMID:2071588"	SAB
+R53	"3,4-Dihydroxymandelaldehyde:NAD+ oxidoreductase"	4	"PMID:10424772,PMID:12616643"	SAB
+R54	"3,4-Dihydroxymandelaldehyde:NADP+ oxidoreductase"	4	"PMID:10424772,PMID:12616643"	SAB
+R73	3-Methoxy-4-hydroxyphenylacetaldehyde:NAD+ oxidoreductase	1	"PMID:6422947,PMID:9732974"	SAB
+R77	3-Methoxy-4-hydroxyphenylglycolaldehyde:NAD+ oxidoreductase	2		SAB
+R78	3-Methoxy-4-hydroxyphenylglycolaldehyde:NADP+ oxidoreductase	2		SAB
+R82	3-Sulfino-L-alanine carboxy-lyase	4		SAB
+R96	4-Hydroxyphenylacetaldehyde:NADP+ oxidoreductase	2	PMID:3753983	SAB
+R124	5-Methyltetrahydrofolate transport via receptor binding and protolysis	4	PMID:15094208	IT
+R213	Acetylcholine secretion via secretory vesicle (ATP driven)	4	"PMID:12827358,PMID:15383652"	SAB This reaction represents the ATP driven secretion of ach from the cell.  It leaves out the vesicle because that is not a compartment.  ATP:H ratio is assumed as 1:3 for vacuolar ATPase and substrate:h ratio is 1:2.  This gives a 3:2 ratio for substrate:ATP
+R236	"acyl-CoA oxidase (hexadecanoyl-CoA), peroxisomal"	4	"PMID:7876265,PMID:8159712"	NCD
+R237	Acetyl-CoA ACP transacylase	4	"PMID:11756679,PMID:15507492"	tv rxn is now charge balanced; removed h - NCD
+R240	Aconitate hydratase	0	"PMID:10419470,PMID:17244191,PMID:17244192"	IF. Biochemical
+R280	adenine phosphoribosyltransferase	4	"PMID:14674717,PMID:15196008"	
+R283	carnitine O-palmitoyltransferase	4		NJ
+R320	1-acylglycerol-3-phosphate O-acyltransferase 1	4		FULLR corresponds to acyl/R groups in texts. NJ
+R337	alpha-ketoglutarate/malate transporter	4	PMID:14598172	TV
+R371	"aldehyde dehydrogenase (acetaldehyde, NAD)"	0	PMID:12616643	"Only acetaldehyde considered for now. See also 1.2.1.4. Wide specificity, including oxidation of D-glucuronolactone to D-glucarate. Formerly EC 1.1.1.70; r0176"
+R373	"aldehyde dehydrogenase (acetaldehyde, NADP)"	0	PMID:12616643	See also ALDH1 (1.2.1.3); r0177
+R420	carnitine transferase	4		NJ
+R427	arginine decarboxylase (m)	4	PMID:14752610	SAB m
+R429	arginase	4	PMID:1008818	
+R497	aspartate 1-decarboxylase	1		The E. coli enzyme contains a pyruvoyl group.
+R508	"V-type ATPase, H+ transporting, lysosomal"	4	"PMID:10224039,PMID:12628346"	RS/DK
+R512	"ADP/ATP transporter, mitochondrial"	4	PMID:14598172	NCD
+R594	production of Palmitoylcarnitine	4	PMID:1988962	
+R595	C160 transport into the mitochondria	4	"PMID:1528846,PMID:1988962"	TV
+R597	production of palmitoleoylcarnitine	4		TDV
+R598	carnitine O-palmitoyltransferase	4		NJ
+R603	production of stearoylcarnitine	4	PMID:1988962	TV (see C160CRN)
+R606	transport of Octadecenoyl-CoA into mitochondrial matrix	4	PMID:1988962	TDV
+R609	carnitine C20:4 transferase	4	PMID:1988962	TDV
+R613	carnitine C22:6 transferase	4	PMID:1988962	TDV
+R617	"cis-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA hydro-lyase (x)"	1		SAB
+R620	C-3 sterol keto reductase (zymosterol)	4	PMID:12829805	NCD ER - NJ
+R628	"catalase A, peroxisomal (ethanol)"	2	"PMID:19382904,PMID:19382905,PMID:8769411"	NCD
+R629	"calcium / sodium antiporter (1:3), reversible"	4	"PMID:12406570,PMID:2484986"	MM
+R675	cholesterol efflux (ATP depedent)	4	"PMID:10655069,PMID:12600718"	IT
+R679	"cholesterol efflux (ATP depedent), golgi"	4	"PMID:10655069,PMID:12600718"	IT
+R697	carnitine O-palmitoyltransferase	4		NJ
+R758	citrate synthase	0	"PMID:16006620,PMID:9933076"	IF old EC number (4.1.3.7) is obsolete -- transferred to 2.3.3.1 NCD. Biochemical
+R784	"ubiquinol-6 cytochrome c reductase, Complex III"	4	"PMID:10453733,PMID:11047755"	INVALID ECO TERM: IFH
+R866	carnitine O-palmitoyltransferase	4		NJ
+R898	diacylglycerol acyltransferase	4	PMID:11481335	FULLR corresponds to acyl/R groups in texts. NJ
+R908	dehydroascorbate transport (uniport)	4	"PMID:10421229,PMID:12750891,PMID:15705056,PMID:2656669,PMID:3170580,PMID:8504756,PMID:9230074"	NCD
+R913	24-dehydrocholesterol reductase [Precursor]	4	"PMID:17984220,PMID:19520779,PMID:19520780"	"lanosterol -&gt; cholesterol pathway FAD known to be cofactor, other details missing NJ"
+R917	dihydroceramide desaturase	4	PMID:9188692	NJ
+R918	dihydroceramide desaturase	4	PMID:9188692	NJ
+R929	"dihydropyrimidinase (5,6-dihydrouracil)"	4	PMID:8973361	
+R943	carnitine O-palmitoyltransferase	4		NJ
+R997	"DNA (cytosine-5-)-methyltransferase, nucleus"	4	PMID:1594447	
+R998	"DNA (cytosine-5-)-methyltransferase, nucleus"	1		SAB copied from DNAMTn
+R1146	3-hydroxyacyl-CoA dehydratase (3-hydroxybutanoyl-CoA) (perioxisome)	2	PMID:7558027	SAB for x
+R1152	carnitine O-palmitoyltransferase	4		NJ
+R1156	carnitine O-palmitoyltransferase	4		NJ
+R1159	fatty acid transport via diffusion	2	"PMID:11788354,PMID:12864740"	NJ
+R1611	fatty-acyl-ACP hydrolase	4	PMID:9159116	NCD
+R1632	fatty-acid--CoA ligase	4	PMID:11591435	current models suggest COAL activity occurs on outer peroxisomal membrane NJ
+R1638	fatty-acid--CoA ligase	4		NJ
+R1672	Beta oxidation of long chain fatty acid	4		"_4 rounds of beta ox - in peroxisome, no fad, 1ste set of beta-ox is by acyl-coa oxidase (passes electrons directly to o2 -&gt; h2o2) c16:0 -&gt; c8:0, 4 step FAO lumped for 2 rounds  also includes EC 1.1.1.35, 1.1.1.211, 1.3.3.6, 4.2.1.17, 4.2.1.74 NJ"
+R1677	Beta oxidation of long chain fatty acid	4		"- in peroxisome, no fad, 1ste set of beta-ox is by acyl-coa oxidase (passes electrons directly to o2 -&gt; h2o2) NJ"
+R1685	Beta oxidation of long chain fatty acid	4		"_5 rounds of beta ox, 3 degrees loss of saturation -&gt; only 2 fad oxidized to fadh2 - in peroxisome, no fad, 1ste set of beta-ox is by acyl-coa oxidase (passes electrons directly to o2 -&gt; h2o2) peroxisomal (very long chain FA) c18:3,n-6 -&gt; c8:0, 4 step FAO lumped for 2 rounds  also includes EC 1.1.1.35, 1.1.1.211, 1.3.3.6, 4.2.1.17, 4.2.1.74 NJ"
+R1687	Beta oxidation of long chain fatty acid	4		"_5 rounds of beta ox, 4 degrees loss of saturation -&gt; only 1 fad oxidized to fadh2 - in peroxisome, no fad, 1ste set of beta-ox is by acyl-coa oxidase (passes electrons directly to o2 -&gt; h2o2) peroxisomal (very long chain FA) c18:4,n-6 -&gt; c8:0, 4 step FAO lumped for 2 rounds  also includes EC 1.1.1.35, 1.1.1.211, 1.3.3.6, 4.2.1.17, 4.2.1.74 NJ"
+R1689	Beta oxidation of long chain fatty acid	4		"peroxisomal (very long chain FA) - in peroxisome, no fad, 1ste set of beta-ox is by acyl-coa oxidase (passes electrons directly to o2 -&gt; h2o2) c20:0 -&gt; c18:0 4 step FAO lumped also includes EC 1.1.1.35, 1.1.1.211, 1.3.3.6, 4.2.1.17, 4.2.1.74 NJ"
+R1694	Beta oxidation of long chain fatty acid	4		"_1 round beta ox, 1 degree loss of sat -&gt; no fad oxidation - in peroxisome, no fad, 1ste set of beta-ox is by acyl-coa oxidase (passes electrons directly to o2 -&gt; h2o2) peroxisomal (very long chain FA) c20:5,n-3 -&gt; c18:4, n-3 - final &apos;3&apos; in abbreviation indicates omega3 FA 4 step FAO lumped for 2 rounds  also includes EC 1.1.1.35, 1.1.1.211, 1.3.3.6, 4.2.1.17, 4.2.1.74 NJ"
+R1696	Beta oxidation of long chain fatty acid	4		"_1 round beta ox - in peroxisome, no fad, 1ste set of beta-ox is by acyl-coa oxidase (passes electrons directly to o2 -&gt; h2o2) peroxisomal (very long chain FA) c22:4,n-6 -&gt; c20:4, n-6 - final &apos;6&apos; in abbreviation indicates omega6 FA 4 step FAO lumped for 2 rounds  also includes EC 1.1.1.35, 1.1.1.211, 1.3.3.6, 4.2.1.17, 4.2.1.74 NJ"
+R1698	Beta oxidation of long chain fatty acid	4		"_2 rounds of beta-ox, plus a loss of 2 degrees of desatuartion, so no fad is oxidized - in peroxisome, no fad, 1ste set of beta-ox is by acyl-coa oxidase (passes electrons directly to o2 -&gt; h2o2) peroxisomal (very long chain FA) c22:5,n-6 -&gt; c18:3, n-6 - final &apos;6&apos; in abbreviation indicates omega6 FA 4 step FAO lumped for 2 rounds  also includes EC 1.1.1.35, 1.1.1.211, 1.3.3.6, 4.2.1.17, 4.2.1.74 NJ"
+R1700	Beta oxidation of long chain fatty acid	4		"_1 round beta ox - in peroxisome, no fad, 1ste set of beta-ox is by acyl-coa oxidase (passes electrons directly to o2 -&gt; h2o2) peroxisomal (very long chain FA) c22:5,n-3 -&gt; c20:5, n-3 - final &apos;3&apos; in abbreviation indicates omega3 FA 4 step FAO lumped for 2 rounds  also includes EC 1.1.1.35, 1.1.1.211, 1.3.3.6, 4.2.1.17, 4.2.1.74 NJ"
+R1703	Beta oxidation of long chain fatty acid	4		"_1 round of beta-oxidation, loses degree of desat, so no fad - in peroxisome, no fad, 1ste set of beta-ox is by acyl-coa oxidase (passes electrons directly to o2 -&gt; h2o2) peroxisomal (very long chain FA) c22:6,n-3 -&gt; c20:5, n-3 4 step FAO lumped also includes EC 1.1.1.35, 1.1.1.211, 1.3.3.6, 4.2.1.17, 4.2.1.74 NJ"
+R1704	Beta oxidation of long chain fatty acid	4		"peroxisomal (very long chain FA) - in peroxisome, no fad, 1ste set of beta-ox is by acyl-coa oxidase (passes electrons directly to o2 -&gt; h2o2) c24:0 -&gt; c20:0 4 step FAO lumped for 2 rounds  also includes EC 1.1.1.35, 1.1.1.211, 1.3.3.6, 4.2.1.17, 4.2.1.74 NJ"
+R1705	Beta oxidation of long chain fatty acid	4		"peroxisomal (very long chain FA) - in peroxisome, no fad, 1ste set of beta-ox is by acyl-coa oxidase (passes electrons directly to o2 -&gt; h2o2) c24:1 -&gt; c18:1 - 3 rounds beta-ox 4 step FAO lumped also includes EC 1.1.1.35, 1.1.1.211, 1.3.3.6, 4.2.1.17, 4.2.1.74 NJ"
+R1706	Beta oxidation of long chain fatty acid	4		"_1 round beta ox - - in peroxisome, no fad, 1ste set of beta-ox is by acyl-coa oxidase (passes electrons directly to o2 -&gt; h2o2) peroxisomal (very long chain FA) c24:4,n-6 -&gt; c22:4, n-6 - final &apos;6&apos; in abbreviation indicates omega6 FA 4 step FAO lumped for 2 rounds  also includes EC 1.1.1.35, 1.1.1.211, 1.3.3.6, 4.2.1.17, 4.2.1.74 NJ"
+R1707	Beta oxidation of long chain fatty acid	4		"- in peroxisome, no fad, 1ste set of beta-ox is by acyl-coa oxidase (passes electrons directly to o2 -&gt; h2o2) confusing name, sorry - accounting for omega3 vs omega6 FA peroxisomal (very long chain FA) c24:5,n-3 -&gt; c22:5, n-3 4 step FAO lumped also "
+R1708	Beta oxidation of long chain fatty acid	4		"peroxisomal (very long chain FA) - - in peroxisome, no fad, 1ste set of beta-ox is by acyl-coa oxidase (passes electrons directly to o2 -&gt; h2o2) c24:5,n-6 -&gt; c22:5, n-6 4 step FAO lumped also includes EC 1.1.1.35, 1.1.1.211, 1.3.3.6, 4.2.1.17, 4.2.1.74 NJ"
+R1709	Beta oxidation of long chain fatty acid	4		"peroxisomal (very long chain FA) - - in peroxisome, no fad, 1ste set of beta-ox is by acyl-coa oxidase (passes electrons directly to o2 -&gt; h2o2) c24:6 -&gt; c22:6 4 step FAO lumped also includes EC 1.1.1.35, 1.1.1.211, 1.3.3.6, 4.2.1.17, 4.2.1.74 NJ"
+R1710	Beta oxidation of long chain fatty acid	4		"peroxisomal (very long chain FA) - in peroxisome, no fad, 1ste set of beta-ox is by acyl-coa oxidase (passes electrons directly to o2 -&gt; h2o2) c26:0 -&gt; c24:0 4 step FAO lumped also includes EC 1.1.1.35, 1.1.1.211, 1.3.3.6, 4.2.1.17, 4.2.1.74 -&gt; into pmtcoa NJ"
+R1712	fatty acyl-CoA synthase (n-C10:0CoA)	4	"PMID:11756679,PMID:15507492,PMID:2669958"	NCD
+R1713	fatty-acyl-CoA synthase (n-C12:0CoA)	4	"PMID:11756679,PMID:15507492"	NCD
+R1714	fatty-acyl-CoA synthase (n-C14:0CoA)	4	"PMID:11756679,PMID:15507492,PMID:2669958"	NCD
+R1715	fatty-acyl-CoA synthase (n-C16:0CoA)	4	"PMID:11756679,PMID:15507492,PMID:2669958"	NCD
+R1716	fatty-acyl-CoA synthase (n-C18:0CoA)	4	"PMID:11756679,PMID:15507492,PMID:2669958"	NCD
+R1717	"fatty acyl-CoA synthase (n-C8:0CoA), lumped reaction"	4	"PMID:11756679,PMID:15507492,PMID:2669958"	NCD
+R1723	fatty acid electroneutral transport	4	"PMID:10479480,PMID:12856180,PMID:15522816"	electroneutral transport NJ
+R1724	fatty acid electroneutral transport	4	"PMID:10479480,PMID:12856180,PMID:15522816"	electroneutral transport NJ
+R1725	fatty acid electroneutral transport	4	"PMID:10479480,PMID:12856180,PMID:15522816"	electroneutral transport NJ
+R1726	fatty acid electroneutral transport	4	"PMID:10479480,PMID:12856180,PMID:15522816"	electroneutral transport NJ
+R1727	fructose-bisphosphate aldolase	0	"PMID:12626877,PMID:6765112"	6765112 - fluorescence of presence in human brain
+R1728	D-Fructose 1-phosphate D-glyceraldehyde-3-phosphate-lyase	2		NCD
+R1729	D-Fructose 1-phosphate D-glyceraldehyde-3-phosphate-lyase	4	"PMID:2996495,PMID:6284103,PMID:6298387"	NCD
+R1732	"Fructose-2,6-bisphosphate 2-phosphatase"	0		IF
+R1769	D-fructose transport in via uniport	4	"PMID:10821868,PMID:10860996,PMID:11583593,PMID:11780753,PMID:11882499,PMID:12135767,PMID:12750891,PMID:15033637,PMID:1634504,PMID:1695905,PMID:1701966,PMID:2182619,PMID:3399500,PMID:8419132,PMID:9770484"	NCD
+R1787	"alpha-fucosidase, extracellular"	4	"PMID:10460218,PMID:11389735,PMID:12604617,PMID:2317201"	NCD
+R1788	"alpha-fucosidase, lysosomal"	4	"PMID:11870229,PMID:1769200,PMID:2803312,PMID:2983333"	NCD
+R1789	"alpha-fucosidase, extracellular"	0		NCD
+R1790	"alpha-fucosidase, lysosomal"	0		NCD
+R1811	"Fumarate:sulfite antiport, mitochondrial"	4	"PMID:14598172,PMID:4441366"	MM
+R1812	"Fumarate:sulfate antiport, mitochondrial"	4	"PMID:14598172,PMID:4441366"	MM
+R1813	"fumarate transport, mitochondrial"	4	"PMID:14598172,PMID:3587497"	TDV
+R1814	"Fumarate:thiosulfate antiport, mitochondrial"	4	"PMID:14598172,PMID:4441366"	MM
+R1892	"beta-galactosidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R1893	"beta-galactosidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R1894	"beta-galactosidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R1895	"beta-galactosidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R1896	"beta-galactosidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R1897	"beta-galactosidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R1898	"beta-galactosidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R1899	"beta-galactosidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R1900	"beta-galactosidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R1901	"beta-galactosidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R1902	"beta-galactosidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R1903	"beta-galactosidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R1904	"beta-galactosidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R1905	"beta-galactosidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R1906	"beta-galactosidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R1907	"beta-galactosidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R1908	"beta-galactosidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R1909	"beta-galactosidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R1910	"beta-galactosidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R1937	galactose transport (uniport)	4	"PMID:10421229,PMID:10821868,PMID:10860996,PMID:11247674,PMID:11592815,PMID:11882499,PMID:12135767,PMID:12750891,PMID:1701966,PMID:2182619,PMID:3103217,PMID:3170580,PMID:3399500,PMID:3839598,PMID:7926364,PMID:8504756,PMID:9230074,PMID:9770484"	NCD
+R1945	"glucoamylase, extracellular (glygn5 -> malt)"	4	PMID:3143729	NCD
+R1960	Glycolaldehyde dehydrogenase	2	PMID:11434452	JLR
+R2012	D-Glucuronolactone:NAD+ oxidoreductase	2	PMID:3779687	NCD
+R2016	Beta-galactosidase	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NJ
+R2052	glucose transport (uniport)	4	"PMID:10421229,PMID:10821868,PMID:10860667,PMID:10860996,PMID:10970791,PMID:11247674,PMID:11583593,PMID:11592815,PMID:11780753,PMID:11832379,PMID:11882499,PMID:12135767,PMID:12483288,PMID:12504846,PMID:12750891,PMID:12914765,PMID:14739288,PMID:15033637,PMID:1701966,PMID:2182619,PMID:2656669,PMID:3103217,PMID:3170580,PMID:3399500,PMID:3839598,PMID:7926364,PMID:8504756,PMID:9230074,PMID:9770484"	
+R2077	Glutamate Decarboxylase	4	"PMID:1924293,PMID:8088791"	JLR- added h to balance
+R2212	3-hydroxyacyl-CoA dehydrogenase (acetoacetyl-CoA) (peroxisome)	0	"PMID:10319576,PMID:11111079"	Same as EC 1.1.1.157 SAB x
+R2213	"3-hydroxyacyl-CoA dehydrogenase (2-Methylacetoacetyl-CoA), mitochondrial"	4	PMID:12872843	MM. inborn deficiency enzyme causes accumulation of substrate 3-hydroxy-2-methylbutyric acid
+R2222	fatty acid transport via diffusion	2	"PMID:11788354,PMID:12864740"	NJ
+R2226	hexokinase (D-glucose:ATP)	2		
+R2227	hexokinase (D-glucosamine:ATP)	1		"D-Glucose, D-mannose, D-fructose, sorbitol and D-glucosamine can act as acceptors; ITP and dATP can act as donors. The liver isoenzyme has sometimes been called glucokinase."
+R2228	hexokinase (D-mannose:ATP)	2		"D-Glucose, D-mannose, D-fructose, sorbitol and D-glucosamine can act as acceptors; ITP and dATP can act as donors. The liver isoenzyme has sometimes been called glucokinase. also active in ecoli PMID: 4557975"
+R2229	hexokinase (D-fructose:ATP)	2		"D-Glucose, D-mannose, D-fructose, sorbitol and D-glucosamine can act as acceptors; ITP and dATP can act as donors. The liver isoenzyme has sometimes been called glucokinase. Same as 2.7.1.4"
+R2231	carnitine O-palmitoyltransferase	4		NJ
+R2245	H+/K+ gastric/non-gastric P-ATPase and ABC ATPase	4	"PMID:2160952,PMID:7900835"	"TV, RS (5/16/2005) This reaction are catalyzed by two classes of ATPase pumps (P-and ABC types)"
+R2256	Heme oxygenase 1	0	PMID:16356137	"TDV (4/28/2004) There are conflicting data on how many moles of NADPH consumed per mole of Biliverdine (Tenhunen 1969, Ryter, 2000). Heme oxygenase is a well known enzyme"
+R2259	carnitine fatty-acyl transferase	4	PMID:1988962	NJ
+R2281	hydroxysteroid (17-beta) dehydrogenase 4	4		see Russell bile acid synthesis review paper in human recon citation db adamanski et al Steroids (1997) 62:159 notes cofactor NADP/NADPH use
+R2282	hydroxysteroid (17-beta) dehydrogenase 4	4		see Russell bile acid synthesis review paper in human recon citation db adamanski et al Steroids (1997) 62:159 notes cofactor NADP/NADPH use
+R2310	Isocitrate dehydrogenase (NAD+)	0	"PMID:10601238,PMID:14555658"	"The reaction may be reversible. Strathern shows the reactions as irreversible. IF. Biochemical, Genetic"
+R2339	inositol transport in via proton symport	4	"PMID:11500374,PMID:12750891"	
+R2349	"b-ketoacyl synthetase (palmitate, n-C16:0)"	4	"PMID:11756679,PMID:15507492,PMID:2669958"	
+R2368	"b-galactosidase,lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	Some enzymes in this group hydrolyse a-L-arabinosides; some animal enzymes also hydrolyse b-D-fucosides and b-D-glucosides; cf. EC 3.2.1.108 lactase
+R2372	lactaldehyde dehydrogenase	2	"PMID:15987839,PMID:2296157,PMID:6487654"	JLR- added irreversible form of LCAD
+R2373	lactaldehyde dehydrogenase	2	"PMID:15987839,PMID:2296157,PMID:6487654"	JLR- added irreversible form of LCAD
+R2376	Lecithin-cholesterol acyltransferase	4	"PMID:11435418,PMID:11966470"	NJ
+R2381	3-Sulfoalanine carboxy-lyase	4		SAB
+R2401	carnitine O-palmitoyltransferase	4		NJ
+R2404	fatty acid transport via diffusion	2	"PMID:11788354,PMID:12864740"	NJ
+R2417	carnitine O-palmitoyltransferase	4		NJ
+R2421	carnitine O-palmitoyltransferase	4		NJ
+R2425	carnitine O-palmitoyltransferase	4		NJ
+R2429	carnitine O-palmitoyltransferase	4		NJ
+R2435	lysophospholipase	4	PMID:9430701	phosphatidyl choline degradation NJ
+R2438	lipase	4	PMID:1969408	carbonyl and extra H accounted for in R group NJ
+R2439	lipase	4	PMID:1969408	FULLR corresponds to acyl/R groups in texts. NJ
+R2440	"lipase, extracellular"	2	PMID:14630921	carbonyl and extra H accounted for in R group NJ
+R2442	"lipase, extracellular"	2	PMID:14630921	NJ
+R2444	lipase	4	"PMID:10318835,PMID:1379598,PMID:1783385,PMID:2753032,PMID:3304425"	FULLR corresponds to acyl/R groups in texts. NJ
+R2450	Lathosterol oxidase	4	PMID:10344195	lanosterol -&gt; cholesterol pathway NJ
+R2456	"histone-lysine N-methyltransferase, nuclear"	4	PMID:14765126	MM. siRNA knockdown in cell line - inhibited function; mainly function in heterochromatic regions
+R2457	"histone-lysine N-methyltransferase, nuclear"	4	PMID:14765126	MM. siRNA knockdown in cell line - inhibited function; mainly function in heterochromatic regions
+R2458	"histone-lysine N-methyltransferase, nuclear"	4	PMID:14765126	MM. siRNA knockdown in cell line - inhibited function; mainly function in heterochromatic regions
+R2467	"alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase"	0	"PMID:10024668,PMID:10372966"	NCD
+R2481	3-Methylimidazole acetaldehyde:NAD+ oxidoreductase	4	PMID:10344773	SAB added 2 h to balance--not certain
+R2483	"Malate:sulfite antiport, mitochondrial"	4	"PMID:14598172,PMID:4441366"	MM
+R2484	"Malate:sulfate antiport, mitochondrial"	4	"PMID:14598172,PMID:4441366"	MM
+R2488	"malate transport, mitochondrial"	4	PMID:14598172	IF
+R2489	"Malate:thiosulfate antiport, mitochondrial"	4	"PMID:14598172,PMID:4441366"	MM
+R2490	maltose transport (uniport)	4	"PMID:10421229,PMID:12750891,PMID:3170580,PMID:8504756,PMID:9230074"	NCD
+R2497	mannose transport (uniport)	4	"PMID:11882499,PMID:12135767,PMID:12750891,PMID:1701966,PMID:2182619,PMID:3103217,PMID:3399500,PMID:3839598,PMID:7926364,PMID:9770484"	NCD
+R2511	Malonyl-CoA-ACP transacylase	4	"PMID:11756679,PMID:15507492"	tv
+R2518	malic enzyme (NADP)	0	PMID:1993674	
+R2547	"inositol-1,3,4,5-trisphosphate 5-phosphatase"	4	"PMID:10593988,PMID:10764818,PMID:15261714,PMID:2906139,PMID:7721860,PMID:8006039,PMID:8013665,PMID:8530088,PMID:8769125,PMID:9428629,PMID:9824312"	NCD
+R2558	"inositol-1,4,5-trisphosphate 5-phosphatase"	4	"PMID:10593988,PMID:10764818,PMID:15261714,PMID:2906139,PMID:7721860,PMID:8006039,PMID:8013665,PMID:8530088,PMID:8769125,PMID:9428629,PMID:9824312"	NCD
+R2572	"Maltodextrin glucosidase (maltotriose), extracellular"	4	PMID:3143729	JLR
+R2573	"Maltodextrin glucosidase (maltotriose), lysosome"	4	PMID:3049072	JLR
+R2688	Na+/K+ exchanging ATPase	4	"PMID:10456317,PMID:8833915,PMID:9159180"	"AMF TDV (8/25/2005, stoichiometry changed)"
+R2692	sodium/ammonium proton antiporter	4	"PMID:10444453,PMID:12845533,PMID:2536298,PMID:2581505,PMID:7631746,PMID:8199403,PMID:8595899"	NCD
+R2697	Na+/Ca2+-K+ exchange	4	"PMID:10484410,PMID:10662833,PMID:11294880,PMID:12379639,PMID:14770312,PMID:9478004"	NCD
+R2767	carnitine O-palmitoyltransferase	4		NJ
+R2841	Ornithine Decarboxylase	4	PMID:2317811	JLR- added proton to balance
+R2891	"cytochrome P450, family 7, subfamily A, polypeptide 1"	4		
+R2905	Platelet-activating factor acetylhydrolase	4	"PMID:7669037,PMID:8028668,PMID:8955149"	NJ
+R2906	Platelet-activating factor acetylhydrolase	4	PMID:8675689	NJ
+R2918	choline phosphatase	4	"PMID:9395408,PMID:9582313"	NJ
+R2919	choline phosphatase	4	"PMID:11481335,PMID:8530346"	NJ
+R2920	choline phosphatase	4	"PMID:11481335,PMID:8530346"	NJ
+R2921	choline phosphatase	4	"PMID:11481335,PMID:8530346"	NJ
+R2928	phosphatidylcholine transporter	4	"PMID:11826283,PMID:7912658"	for PC secretion into bile NJ
+R2929	"3',5'-cyclic-nucleotide phosphodiesterase"	4	"PMID:10725373,PMID:10872825,PMID:10906126,PMID:10952971,PMID:11050148,PMID:11114167,PMID:12038792,PMID:12135876,PMID:12154085,PMID:12388353,PMID:12681444,PMID:12764607,PMID:14604994,PMID:15147193,PMID:15272012,PMID:15480303,PMID:8884271,PMID:9210593,PMID:9419816"	NCD
+R2942	phosphatidylethanolamine flippase	4	"PMID:10198212,PMID:10856717,PMID:11353404"	See PMID: 10856717 - flippase activity NJ
+R2943	phosphatidylethanolamine flippase	4	"PMID:10198212,PMID:10856717,PMID:11353404"	"See PMID: 10856717 - flippase activity no detailed data on which compartment ATP hydrolysis occurs, so for the time being assumed to be cytosolic NJ"
+R2948	peroxisomal lumped long chain fatty acid oxidation	4	"PMID:11591435,PMID:12814641,PMID:15599942,PMID:1679347,PMID:7487879,PMID:8188243"	"lumped peroxisomal alpha and beta oxidation pristanoyl-CoA -&gt; 4,8 diemthylnonanoyl-CoA (result of compound not known) stoichiometry for O2 is questionable at present no fad in peroxisome - 1st step of beta ox is acyl-co oxidase (not reductase) NJ"
+R2954	6-phosphofructo-2-kinase	0		IF
+R2959	glucose-6-phosphate isomerase	0	"PMID:19064002,PMID:2241164,PMID:8530082"	
+R2961	phosphoglycerate kinase	0		
+R2970	Prostaglandin G/H synthase	4	"PMID:14511332,PMID:1907252"	NJ
+R2971	Prostaglandin G/H synthase	4	"PMID:14511332,PMID:1907252"	NJ
+R2976	heme transport	4	PMID:16143108	NCD
+R2987	"phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase"	4	PMID:11463863	NCD
+R2988	"phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase, nuclear"	4	"PMID:11463863,PMID:12728269"	NCD
+R2989	"phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase"	4	PMID:10358929	NCD
+R2996	phosphatidylinositol 3-phosphate 4-kinase	4	"PMID:10358929,PMID:9211928,PMID:9367159"	NCD FULLR corresponds to acyl/R groups in texts. NJ changed EC from 2.7.1.149 (pail5p) to 2.7.1.68 (pail4p) - NCD
+R2999	"phosphatidylinositol 4,5-bisphosphate 3-kinase"	4	"PMID:12507995,PMID:15780590,PMID:2174051,PMID:7624799,PMID:7713498,PMID:8246984,PMID:9113989"	NCD
+R3002	"phosphatidylinositol-4,5-bisphosphate 5-phosphatase"	4	"PMID:10764818,PMID:12915445,PMID:7721860,PMID:7761412"	NCD
+R3004	"phosphatidylinositol 4,5-bisphosphate phospholipase C"	4	"PMID:10702670,PMID:10702683,PMID:10760467,PMID:11022047,PMID:11022048,PMID:11118617,PMID:12117804,PMID:12213492,PMID:12416999,PMID:13333955,PMID:15140260,PMID:1644792,PMID:2167438,PMID:7607669,PMID:7612006,PMID:7633416,PMID:7789993,PMID:7835906,PMID:7849701,PMID:7890667,PMID:8530101,PMID:9345909"	NCD
+R3006	phosphatidylinositol 4-phosphate 3-kinase	4	"PMID:7624799,PMID:7713498,PMID:8246984,PMID:9113989,PMID:9337861,PMID:9830063,PMID:9878262"	"NCD Notice that contrary to some standards in texts, KEGG, etc, the Rtotal group accounts for the whole fatty acyl CoA (so the CHO only accounts for the core backbone), manner in which Rtotal was produced accounts for O and H balances. Formation of the Rtotal group (rxn flux)accounted for mass balance for CoA NJ changed EC from 2.7.1.149 (pail5p) to 2.7.1.68 (pail4p) - NCD"
+R3011	phosphatidylinositol 4-phosphate phospholipase C	4	"PMID:10702670,PMID:10702683,PMID:10760467,PMID:11022047,PMID:11022048,PMID:11118617,PMID:12117804,PMID:12213492,PMID:12416999,PMID:13333955,PMID:15140260,PMID:1644792,PMID:2167438,PMID:7607669,PMID:7612006,PMID:7633416,PMID:7789993,PMID:7835906,PMID:7849701,PMID:7890667,PMID:8530101,PMID:9345909"	NCD
+R3014	phosphatidylinositol-5-phosphate 3-kinase	1	PMID:10358929	NCD
+R3016	phosphatidylinositol-5-phosphate 4-kinase	4	"PMID:10358929,PMID:9211928,PMID:9367159"	NCD
+R3019	phosphatidylinositol 3-kinase	4	"PMID:7624799,PMID:7628435,PMID:7713498,PMID:8246984,PMID:9113989,PMID:9337861,PMID:9830063,PMID:9878262"	NCD
+R3022	phosphatidylinositol 4-kinase	4	"PMID:12324459,PMID:164238,PMID:8662589"	NJ
+R3026	phosphatidylinositol phospholipase C	4	"PMID:10702670,PMID:10702683,PMID:10760467,PMID:11022047,PMID:11022048,PMID:11118617,PMID:12117804,PMID:12213492,PMID:12416999,PMID:13333955,PMID:15140260,PMID:1644792,PMID:2167438,PMID:7607669,PMID:7612006,PMID:7633416,PMID:7789993,PMID:7835906,PMID:7849701,PMID:7890667,PMID:8530101,PMID:9345909"	NCD
+R3035	phospholipase A2	4	"PMID:9272153,PMID:9417066"	phosphatidyl choline degradation NJ
+R3078	Peroxidase (multiple substrates)	0	PMID:10464338	"RS/TV (6/3/05) Peroxidases can act on a variety of substrates which are oxidized, not just methanol."
+R3089	"L-Proline,2-oxoglutarate:oxygen oxidoreductase (4-hydroxylating) (ER)"	4	"PMID:12714038,PMID:2543975,PMID:3034602"	SAB
+R3108	Propenoyl-CoA hydrolase (m)	1	PMID:8824301	SAB made up name because name in KEGG seemed wrong. in vitro assay
+R3109	Propenoyl-CoA hydrolase (x)	4	PMID:8188243	SAB made up name because name in KEGG seemed wrong
+R3115	phosphatidylserine flippase	4	"PMID:10198212,PMID:10856717,PMID:11353404"	See PMID: 10856717 - flippase activity NJ
+R3116	phosphatidylserine flippase	4	"PMID:10198212,PMID:10856717,PMID:11353404"	"See PMID: 10856717 - flippase activity no detailed data on which compartment ATP hydrolysis occurs, so for the time being assumed to be cytosolic NJ"
+R3121	carnitine fatty-acyl transferase	4	PMID:1988962	NJ
+R3153	pyruvate kinase	0		
+R3208	ribonucleoside-diphosphate reductase (ADP)	2	PMID:14729598	
+R3209	ribonucleoside-diphosphate reductase (GDP)	2	PMID:14729598	
+R3210	ribonucleoside-diphosphate reductase (CDP)	4	PMID:14729598	
+R3211	ribonucleoside-diphosphate reductase (UDP)	2	PMID:14729598	
+R3223	carnitine fatty-acyl transferase	4	PMID:1988962	NJ
+R3227	carnitine fatty-acyl transferase	4	PMID:1988962	NJ
+R3231	carnitine fatty-acyl transferase	4	PMID:1988962	NJ
+R3237	"beta-galactoside alpha-2,3-sialyltransferase (core 2)"	4	"PMID:10504389,PMID:7901202,PMID:8027041,PMID:8288606,PMID:8920913"	NCD
+R3238	"beta-galactoside alpha-2,3-sialyltransferase (complex N-glycan)"	4	PMID:8333853	NCD
+R3239	"beta-galactoside alpha-2,3-sialyltransferase"	4	"PMID:10504389,PMID:7901202,PMID:8027041,PMID:8288606,PMID:8920913"	NCD
+R3296	"galactose-6-sulfate sulfatase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R3309	"galactose-6-sulfate sulfatase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R3312	"galactose-6-sulfate sulfatase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R3316	"N-acetylgalactosamine-6-sulfatase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R3317	"N-acetylgalactosamine-6-sulfatase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R3318	"N-acetylgalactosamine-6-sulfatase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R3319	"N-acetylgalactosamine-6-sulfatase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R3320	"N-acetylgalactosamine-6-sulfatase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R3321	"N-acetylgalactosamine-6-sulfatase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R3374	"sialidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R3375	"sialidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R3376	"sialidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R3377	"sialidase, lysosomal"	4	"PMID:11550799,PMID:1755850,PMID:1794986,PMID:1953646,PMID:2111707,PMID:3143362,PMID:39554,PMID:7213753,PMID:7575473,PMID:8985184,PMID:9020182,PMID:9054950"	NCD
+R3378	"Beta-galactoside alpha-2,3-sialyltransferase, Golgi apparatus"	4	PMID:9266697	NJ
+R3382	sphingolipid long chain base kinase (sphinganine)	4	PMID:10751414	NCD
+R3405	sphingosine kinase 2	4	PMID:10751414	NJ
+R3413	superoxide dismutase	4	"PMID:1332049,PMID:3889846"	JLR
+R3416	"superoxide dismutase, nuclear"	4	"PMID:1332049,PMID:3889846"	JLR
+R3417	"superoxide dismutase, peroxisome"	4	"PMID:1332049,PMID:3889846"	JLR
+R3431	"CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase, Golgi apparatus"	4	PMID:9266697	NJ
+R3432	"CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase, Golgi apparatus"	4	PMID:9266697	NJ
+R3433	"CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase, Golgi apparatus"	4	PMID:9266697	NJ
+R3434	"ST3 beta-galactoside alpha-2,3-sialyltransferase 3"	4	PMID:8333853	NJ
+R3456	carnitine O-palmitoyltransferase	4		NJ
+R3464	"succinate transport, mitochondrial"	4	PMID:14598172	TDV
+R3470	"sucrose hydrolyzing enxyme, extracellular"	4	"PMID:1560017,PMID:3143729"	NCD
+R3473	"trans-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA hydro-lyase (x)"	1		SAB
+R3499	carnitine O-palmitoyltransferase	4		NJ
+R3504	carnitine O-palmitoyltransferase	4		NJ
+R3509	carnitine O-palmitoyltransferase	4		NJ
+R3558	carnitine O-palmitoyltransferase	4		NJ
+R3588	tetradecanoate (transport)	2	"PMID:10811962,PMID:11161786"	
+R3589	carnitine O-palmitoyltransferase	4		NJ
+R3683	carnitine O-palmitoyltransferase	4		NJ
+R3698	Vitamin D3 uptake	2		"I am not sure how vitamin D3 is taken up  from peripheral cells based on Vitamins, G.F.M. Ball,2004, Blackwell publishing, 1st ed (book) pg.193 IT"
+R3701	Very-long-chain-fatty-acid-CoA ligase	2	PMID:10479480	"from uniprot  and lit - see human recon lit refs divalent cation requirement - unclear which one, reaction inhibited in the presence of EDTA (may just be MgATP or MgATP) - see Kelley and Vessey Biochimica et Biophysica Acta (1994) 1209: 51-55 temporarily will have H+ balance reaction NJ"
+R3702	Very-long-chain-fatty-acid-CoA ligase	2		"from uniprot  and lit - see human recon lit refs divalent cation requirement - unclear which one, reaction inhibited in the presence of EDTA (may just be MgATP or MgATP) - see Kelley and Vessey Biochimica et Biophysica Acta (1994) 1209: 51-55 temporarily will have H+ balance reaction NJ"
+R3703	Very-long-chain-fatty-acid-CoA ligase	4		"from uniprot  and lit - see human recon lit refs divalent cation requirement - unclear which one, reaction inhibited in the presence of EDTA (may just be MgATP or MgATP) - see Kelley and Vessey Biochimica et Biophysica Acta (1994) 1209: 51-55 temporarily will have H+ balance reaction NJ"
+R3704	Very-long-chain-fatty-acid-CoA ligase	4		"from uniprot  and lit - see human recon lit refs divalent cation requirement - unclear which one, reaction inhibited in the presence of EDTA (may just be MgATP or MgATP) - see Kelley and Vessey Biochimica et Biophysica Acta (1994) 1209: 51-55 temporarily will have H+ balance reaction NJ"
+R3731	D-xylose reversible transport	4	"PMID:10421229,PMID:12750891,PMID:3170580,PMID:8504756,PMID:9230074"	NCD
+R3787	AMP:pyrophosphate phosphoribosyltransferase Purine metabolism EC:2.4.2.7	0	"PMID:6778226,PMID:692402"	
+R3795	Oxalosuccinate:NADP+ oxidoreductase (decarboxylating) Citrate cycle (TCA cycle) EC:1.1.1.42	0	"PMID:16489927,PMID:9866202"	
+R3805	GTP:pyruvate O2-phosphotransferase Purine metabolism EC:2.7.1.40	0	"PMID:1009117,PMID:7154942"	
+R3813	CTP:pyruvate O2-phosphotransferase EC:2.7.1.40	0	"PMID:1009117,PMID:7154942"	
+R3818	UTP:pyruvate O2-phosphotransferase EC:2.7.1.40	0	"PMID:1009117,PMID:7154942"	
+R3848	dATP:pyruvate O2-phosphotransferase Purine metabolism EC:2.7.1.40	0	"PMID:1009117,PMID:7154942"	
+R3856	Palmitoyl-CoA:oxygen 2-oxidoreductase Fatty acid metabolism EC:1.3.3.6 EC:1.3.99.3	0	"PMID:17603022,PMID:1774065,PMID:3597357,PMID:6240978,PMID:7876265"	
+R3857	Palmitate:CoA ligase (AMP-forming) Fatty acid metabolism EC:6.2.1.3	0	PMID:8584017	
+R3858	citrate hydro-lyase Citrate cycle (TCA cycle) / Glyoxylate and dicarboxylate metabolism EC:4.2.1.4	0	"PMID:15263083,PMID:16511074"	
+R3867	Glycolysis / Glyconeogenesis EC:2.7.1.1	0	"PMID:16906315,PMID:7061426,PMID:7150652,PMID:8717435"	
+R3868	Glycolysis / Glyconeogenesis EC:2.7.1.1	0	"PMID:16906315,PMID:7061426,PMID:7150652,PMID:8717435"	
+R3869	Glycolysis / Glyconeogenesis EC:2.7.1.1	0	"PMID:16906315,PMID:7061426,PMID:7150652,PMID:8717435"	
+R3870	Glycolysis / Glyconeogenesis EC:2.7.1.1	0	"PMID:16906315,PMID:7061426,PMID:7150652,PMID:8717435"	
+R3871	Glycolysis / Glyconeogenesis EC:2.7.1.1	0	"PMID:16906315,PMID:7061426,PMID:7150652,PMID:8717435"	
+R3872	Glycolysis / Glyconeogenesis EC:2.7.1.1	0	"PMID:16906315,PMID:7061426,PMID:7150652,PMID:8717435"	
+R3873	Glycolysis / Glyconeogenesis EC:2.7.1.1	0	"PMID:16906315,PMID:7061426,PMID:7150652,PMID:8717435"	
+R3874	Glycolysis / Glyconeogenesis EC:2.7.1.1	0	"PMID:16906315,PMID:7061426,PMID:7150652,PMID:8717435"	
+R3898	"Sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase Carbon fixation EC:4.1.2.13"	0	"PMID:10214945,PMID:2198022,PMID:4052378,PMID:4084320,PMID:6952783"	
+R3902	dATP:pyruvate O2-phosphotransferase Purine metabolism EC:2.7.1.40	0	"PMID:1009117,PMID:7154942"	
+R3906	EC:1.1.1.42	0	"PMID:10521434,PMID:16489927,PMID:18484410,PMID:9866202"	
+R3907	isocitrate hydro-lyase Citrate cycle (TCA cycle) / Glyoxylate and dicarboxylate metabolism EC:4.2.1.3	0	"PMID:15263083,PMID:16511074"	
+R3908	Palmitoyl-CoA:L-carnitine O-palmitoyltransferase Fatty acid metabolism EC:2.3.1.21	0	"PMID:1735445,PMID:1988962,PMID:2355017,PMID:6361812,PMID:7892212"	
+R3909	Palmitoyl-CoA:L-carnitine O-palmitoyltransferase Fatty acid metabolism EC:2.3.1.21	0	"PMID:1735445,PMID:1988962,PMID:2355017,PMID:6361812,PMID:7892212"	
+R3910	Palmitoyl-CoA:L-carnitine O-palmitoyltransferase Fatty acid metabolism EC:2.3.1.21	0	"PMID:1735445,PMID:1988962,PMID:2355017,PMID:6361812,PMID:7892212"	
+R3911	Palmitoyl-CoA:L-carnitine O-palmitoyltransferase Fatty acid metabolism EC:2.3.1.21	0	"PMID:1735445,PMID:1988962,PMID:2355017,PMID:6361812,PMID:7892212"	
+R3912	Palmitoyl-CoA:L-carnitine O-palmitoyltransferase Fatty acid metabolism EC:2.3.1.21	0	"PMID:1735445,PMID:1988962,PMID:2355017,PMID:6361812,PMID:7892212"	
+R3913	Palmitoyl-CoA:L-carnitine O-palmitoyltransferase Fatty acid metabolism EC:2.3.1.21	0	"PMID:1735445,PMID:1988962,PMID:2355017,PMID:6361812,PMID:7892212"	
+R3914	Palmitoyl-CoA:L-carnitine O-palmitoyltransferase Fatty acid metabolism EC:2.3.1.21	0	"PMID:1735445,PMID:1988962,PMID:2355017,PMID:6361812,PMID:7892212"	
+R3916	Palmitoyl-CoA:L-carnitine O-palmitoyltransferase Fatty acid metabolism EC:2.3.1.21	0	"PMID:1735445,PMID:1988962,PMID:2355017,PMID:6361812,PMID:7892212"	
+R3917	Palmitoyl-CoA:L-carnitine O-palmitoyltransferase Fatty acid metabolism EC:2.3.1.21	0	"PMID:1735445,PMID:1988962,PMID:2355017,PMID:6361812,PMID:7892212"	
+R3918	Palmitoyl-CoA:L-carnitine O-palmitoyltransferase Fatty acid metabolism EC:2.3.1.21	0	"PMID:1735445,PMID:1988962,PMID:2355017,PMID:6361812,PMID:7892212"	
+R3919	Palmitoyl-CoA:L-carnitine O-palmitoyltransferase Fatty acid metabolism EC:2.3.1.21	0	"PMID:1735445,PMID:1988962,PMID:2355017,PMID:6361812,PMID:7892212"	
+R3921	Palmitoyl-CoA:L-carnitine O-palmitoyltransferase Fatty acid metabolism EC:2.3.1.21	0	"PMID:1735445,PMID:1988962,PMID:2355017,PMID:6361812,PMID:7892212"	
+R3929	2-Deoxyadenosine 5-diphosphate:oxidized-thioredoxin 2-oxidoreductase Purine metabolism EC:1.17.4.1	0	"PMID:6121703,PMID:8074691"	
+R3930	2-Deoxyadenosine 5-diphosphate:oxidized-thioredoxin 2-oxidoreductase Purine metabolism EC:1.17.4.1	0	"PMID:6121703,PMID:8074691"	
+R3931	2-Deoxyadenosine 5-diphosphate:oxidized-thioredoxin 2-oxidoreductase Purine metabolism EC:1.17.4.1	0	"PMID:6121703,PMID:8074691"	
+R3932	2-Deoxyadenosine 5-diphosphate:oxidized-thioredoxin 2-oxidoreductase Purine metabolism EC:1.17.4.1	0	"PMID:6121703,PMID:8074691"	
+R3954	Phenylacetaldehyde:NAD+ oxidoreductase Phenylalanine metabolism / Styrene degradation EC:1.2.1.5 EC:1.2.1.39	0	PMID:15230339	
+R3955	Phenylacetaldehyde:NAD+ oxidoreductase Phenylalanine metabolism / Styrene degradation EC:1.2.1.5 EC:1.2.1.39	0	PMID:15230339	
+R3956	Aldehyde:NADP+ oxidoreductase Phenylalanine metabolism EC:1.2.1.5	0	"PMID:17379813,PMID:18621017"	
+R3957	Aldehyde:NADP+ oxidoreductase Phenylalanine metabolism EC:1.2.1.5	0	"PMID:17379813,PMID:18621017"	
+R3976	Deamino-NAD+ nucleotidohydrolase Nicotinate and nicotinamide metabolism EC:3.6.1.9	0	"PMID:11579996,PMID:11946484"	
+R4019	(S)-3-Hydroxydodecanoyl-CoA hydro-lyase Fatty acid elongation in mitochondria / Fatty acid metabolism EC:4.2.1.17	0	"PMID:8012501,PMID:8188243"	
+R4020	(S)-3-Hydroxydodecanoyl-CoA hydro-lyase Fatty acid elongation in mitochondria / Fatty acid metabolism EC:4.2.1.17	0	"PMID:8012501,PMID:8188243"	
+R4023	"(S)-3-Hydroxyisobutyryl-CoA hydro-lyase Valine, leucine and isoleucine degradation EC:4.2.1.17"	0	"PMID:10671535,PMID:12467702"	
+R4028	Acyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating) Fatty acid biosynthesis EC:2.3.1.85	0	"PMID:11750882,PMID:4452359,PMID:6137188,PMID:7567999,PMID:7834997,PMID:8962082"	
+R4031	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase Fatty acid biosynthesis EC:2.3.1.85	0	"PMID:6137188,PMID:8962082"	
+R4032	"Butyryl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing and thioester-hydrolysing) Fatty acid biosynthesis EC:2.1.3.85"	0		
+R4036	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]:NADP+ oxidoreductase Fatty acid biosynthesis EC:2.3.1.85	0	"PMID:11750882,PMID:4452359,PMID:6137188,PMID:7567999,PMID:7834997,PMID:8962082"	
+R4037	(3R)-3-Hydroxydecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase Fatty acid biosynthesis EC:2.3.1.85	0	"PMID:11750882,PMID:4452359,PMID:6137188,PMID:7567999,PMID:7834997,PMID:8962082"	
+R4038	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase Fatty acid biosynthesis EC:2.3.1.85	0	PMID:7567999	
+R4039	(3R)-3-Hydroxyoctanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase Fatty acid biosynthesis EC:2.3.1.85	0	"PMID:11750882,PMID:4452359,PMID:6137188,PMID:7567999,PMID:7834997,PMID:8962082"	
+R4040	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase; (3R)-3-Hydroxyoctanoyl-[acyl-carrier-protein] hydro-lyase Fatty acid biosynthesis EC:2.3.1.85	0	PMID:7567999	
+R4041	(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein]:NADP+ oxidoreductase Fatty acid biosynthesis EC:2.3.1.85	0	"PMID:11750882,PMID:4452359,PMID:6137188,PMID:7567999,PMID:7834997,PMID:8962082"	
+R4042	(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase Fatty acid biosynthesis EC:2.3.1.85	0	PMID:7567999	
+R4044	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase Fatty acid biosynthesis EC:2.3.1.85	0	"PMID:11750882,PMID:4452359,PMID:6137188,PMID:7567999,PMID:7834997,PMID:8962082"	
+R4045	(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase Fatty acid biosynthesis EC:2.3.1.85	0	PMID:7567999	
+R4049	r0709	0	PMID:10727395	
+R4050	"Dodecanoyl-[acyl-carrier protein]: malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing and thioester-hydrolysing) Fatty acid biosynthesis EC:2.3.1.85"	0	PMID:7567999	
+R4051	dodecanoyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating) Fatty acid biosynthesis EC:2.3.1.85	0	"PMID:11750882,PMID:4452359,PMID:6137188,PMID:7567999,PMID:7834997,PMID:8962082"	
+R4052	(S)-3-Hydroxyhexadecanoyl-CoA:NAD+ oxidoreductase Fatty acid elongation in mitochondria / Fatty acid metabolism EC:1.1.1.211 EC:1.1.1.35	0	"PMID:10231530,PMID:10329704,PMID:1550553,PMID:1651711,PMID:7150615,PMID:8188243,PMID:8687463,PMID:9553139"	
+R4053	(S)-3-Hydroxyhexadecanoyl-CoA:NAD+ oxidoreductase Fatty acid elongation in mitochondria / Fatty acid metabolism EC:1.1.1.35 EC:1.1.1.211	0	"PMID:10231530,PMID:10329704,PMID:1550553,PMID:1651711,PMID:7150615,PMID:8188243,PMID:8687463,PMID:9553139"	
+R4054	(S)-3-Hydroxyhexadecanoyl-CoA hydro-lyase Fatty acid elongation in mitochondria / Fatty acid metabolism EC:4.2.1.17	0	"PMID:8012501,PMID:8188243"	
+R4055	(S)-3-Hydroxyhexadecanoyl-CoA hydro-lyase Fatty acid elongation in mitochondria / Fatty acid metabolism EC:4.2.1.17	0	"PMID:8012501,PMID:8188243"	
+R4056	(S)-3-Hydroxytetradecanoyl-CoA:NAD+ oxidoreductase Fatty acid elongation in mitochondria / Fatty acid metabolism EC:1.1.1.35 EC:1.1.1.211	0	"PMID:10231530,PMID:10329704,PMID:1550553,PMID:1651711,PMID:7150615,PMID:8188243,PMID:8687463,PMID:9553139"	
+R4057	(S)-3-Hydroxytetradecanoyl-CoA:NAD+ oxidoreductase Fatty acid elongation in mitochondria / Fatty acid metabolism EC:1.1.1.35 EC:1.1.1.211	0	"PMID:10231530,PMID:10329704,PMID:1550553,PMID:1651711,PMID:7150615,PMID:8188243,PMID:8687463,PMID:9553139"	
+R4058	(S)-3-Hydroxytetradecanoyl-CoA hydro-lyase Fatty acid elongation in mitochondria / Fatty acid metabolism EC:4.2.1.17	0	"PMID:8012501,PMID:8188243"	
+R4059	(S)-3-Hydroxytetradecanoyl-CoA hydro-lyase Fatty acid elongation in mitochondria / Fatty acid metabolism EC:4.2.1.17	0	"PMID:8012501,PMID:8188243"	
+R4060	(S)-3-Hydroxydodecanoyl-CoA:NAD+ oxidoreductase Fatty acid elongation in mitochondria / Fatty acid metabolism EC:1.1.1.35 EC:1.1.1.211	0	"PMID:10231530,PMID:10329704,PMID:1550553,PMID:1651711,PMID:7150615,PMID:8188243,PMID:8687463,PMID:9553139"	
+R4061	(S)-3-Hydroxydodecanoyl-CoA:NAD+ oxidoreductase Fatty acid elongation in mitochondria / Fatty acid metabolism EC:1.1.1.211 EC:1.1.1.35	0	"PMID:10231530,PMID:10329704,PMID:1550553,PMID:1651711,PMID:7150615,PMID:8188243,PMID:8687463,PMID:9553139"	
+R4063	(S)-Hydroxydecanoyl-CoA:NAD+ oxidoreductase Fatty acid elongation in mitochondria / Fatty acid metabolism EC:1.1.1.35 EC:1.1.1.211	0	"PMID:10231530,PMID:10329704,PMID:1550553,PMID:1651711,PMID:7150615,PMID:8188243,PMID:8687463,PMID:9553139"	
+R4064	(S)-Hydroxydecanoyl-CoA:NAD+ oxidoreductase Fatty acid elongation in mitochondria / Fatty acid metabolism EC:1.1.1.211 EC:1.1.1.35	0	"PMID:10231530,PMID:10329704,PMID:1550553,PMID:1651711,PMID:7150615,PMID:8188243,PMID:8687463,PMID:9553139"	
+R4065	(S)-Hydroxydecanoyl-CoA hydro-lyase Fatty acid elongation in mitochondria / Fatty acid metabolism EC:4.2.1.17	0	"PMID:8012501,PMID:8188243"	
+R4066	(S)-Hydroxydecanoyl-CoA hydro-lyase Fatty acid elongation in mitochondria / Fatty acid metabolism EC:4.2.1.17	0	"PMID:8012501,PMID:8188243"	
+R4067	(S)-Hydroxyoctanoyl-CoA:NAD+ oxidoreductase Fatty acid elongation in mitochondria / Fatty acid metabolism EC:1.1.1.211	0	"PMID:10231530,PMID:10329704,PMID:1550553,PMID:1651711,PMID:7150615,PMID:8188243,PMID:8687463,PMID:9553139"	
+R4068	(S)-Hydroxyoctanoyl-CoA hydro-lyase Fatty acid elongation in mitochondria / Fatty acid metabolism EC:4.2.1.17	0	"PMID:8012501,PMID:8188243"	
+R4070	(S)-Hydroxyhexanoyl-CoA:NAD+ oxidoreductase Fatty acid elongation in mitochondria / Fatty acid metabolism EC:1.1.1.211 EC:1.1.1.35	0	"PMID:10231530,PMID:10329704,PMID:1550553,PMID:1651711,PMID:7150615,PMID:8188243,PMID:8687463,PMID:9553139"	
+R4071	(S)-Hydroxyhexanoyl-CoA hydro-lyase Fatty acid elongation in mitochondria / Fatty acid metabolism EC:4.2.1.17	0	"PMID:8012501,PMID:8188243"	
+R4076	hydroxysteroid (17-beta) dehydrogenase 4  Bile acid biosynthesis EC:1.1.1.35	0	PMID:11330072	
+R4077	"(24R,25R)-3alpha,7alpha,12alpha,24-tetrahydroxy-5beta-cholestanoyl- CoA hydro-lyase Bile acid biosynthesis EC:4.2.1.107"	0	PMID:11330072	
+R4080	"3,4-Dihydroxymandelaldehyde:NAD+ oxidoreductase Tyrosine metabolism EC:1.2.1.5"	0	"PMID:10424772,PMID:11958479,PMID:3466164"	
+R4081	"3,4-Dihydroxymandelaldehyde:NADP+ oxidoreductase Tyrosine metabolism EC:1.2.1.5"	0	"PMID:11790142,PMID:12604221"	
+R4082	3-Methoxy-4-hydroxyphenylacetaldehyde:NAD+ oxidoreductase Tyrosine metabolism EC:1.2.1.5	0	"PMID:17379813,PMID:18621017"	
+R4083	3-Methoxy-4-hydroxyphenylacetaldehyde:NADP+ oxidoreductase Tyrosine metabolism EC:1.2.1.5	0	PMID:1898068	
+R4084	3-Methoxy-4-hydroxyphenylglycolaldehyde:NAD+ oxidoreductase Tyrosine metabolism EC:1.2.1.5	0	"PMID:17379813,PMID:18621017"	
+R4085	3-Methoxy-4-hydroxyphenylglycolaldehyde:NADP+ oxidoreductase Tyrosine metabolism EC:1.2.1.5	0	"PMID:17379813,PMID:18621017"	
+R4087	butyryl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating) Fatty acid biosynthesis EC:2.3.1.85	0	"PMID:11750882,PMID:4452359,PMID:6137188,PMID:7567999,PMID:7834997,PMID:8962082"	
+R4088	(3R)-3-Hydroxyhexanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase Fatty acid biosynthesis EC:2.3.1.85	0	"PMID:11750882,PMID:4452359,PMID:6137188,PMID:7567999,PMID:7834997,PMID:8962082"	
+R4089	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase Fatty acid biosynthesis EC:2.3.1.85	0	PMID:7567999	
+R4090	Hexanoyl-[acyl-carrier protein]:oxoacyl- and enoyl-reducing and thioester-hydrolysing) Fatty acid biosynthesis EC:2.3.1.85	0	PMID:7567999	
+R4091	hexanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating) Fatty acid biosynthesis EC:2.3.1.85	0	"PMID:11750882,PMID:4452359,PMID:6137188,PMID:7567999,PMID:7834997,PMID:8962082"	
+R4092	"Octanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing and thioester-hydrolysing) Fatty acid biosynthesis EC:2.3.1.85"	0	PMID:7567999	
+R4093	Octanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating) Fatty acid biosynthesis EC:2.3.1.85	0	"PMID:11750882,PMID:4452359,PMID:6137188,PMID:7567999,PMID:7834997,PMID:8962082"	
+R4094	"Decanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing and thioester-hydrolysing) Fatty acid biosynthesis EC:2.3.1.85"	0	PMID:7567999	
+R4095	Decanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating) Fatty acid biosynthesis EC:2.3.1.85	0	"PMID:11750882,PMID:4452359,PMID:6137188,PMID:7567999,PMID:7834997,PMID:8962082"	
+R4096	(3R)-3-Hydroxydodecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase Fatty acid biosynthesis EC:2.3.1.85	0	"PMID:11750882,PMID:4452359,PMID:6137188,PMID:7567999,PMID:7834997,PMID:8962082"	
+R4097	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase Fatty acid biosynthesis EC:2.3.1.85	0	PMID:7567999	
+R4098	"Tetradecanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing and thioester-hydrolysing) Fatty acid biosynthesis EC:2.3.1.85"	0	PMID:7567999	
+R4099	Tetradecanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating) Fatty acid biosynthesis EC:2.3.1.85	0	"PMID:11750882,PMID:4452359,PMID:6137188,PMID:7567999,PMID:7834997,PMID:8962082"	
+R4100	"Hexadecanoyl-[acyl-carrier protein:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing and thioester-hydrolysing) Fatty acid biosynthesis EC:2.3.1.85"	0	PMID:7567999	
+R4103	r0776	0	PMID:10727395	
+R4105	r0778	0	PMID:10727395	
+R4135	Mitochondrial Carrier (MC) TCDB:2.A.29.2.2	0	"PMID:10585886,PMID:14598172,PMID:17173541,PMID:18406340,PMID:4424886,PMID:4441366,PMID:5099217,PMID:8329439"	
+R4136	Mitochondrial Carrier (MC) TCDB:2.A.29.2.2	0	"PMID:10585886,PMID:14598172,PMID:17173541,PMID:18406340,PMID:4424886,PMID:4441366,PMID:5099217,PMID:8329439"	
+R4137	Mitochondrial Carrier (MC) TCDB:2.A.29.2.2	0	"PMID:10585886,PMID:14598172,PMID:17173541,PMID:18406340,PMID:4424886,PMID:4441366,PMID:5099217,PMID:8329439"	
+R4140	Mitochondrial Carrier (MC) TCDB:2.A.29.2.2	0	"PMID:10585886,PMID:14598172,PMID:4424886,PMID:4441366,PMID:5099217,PMID:8329439"	
+R4141	Mitochondrial Carrier (MC) TCDB:2.A.29.2.2	0	"PMID:10585886,PMID:14598172,PMID:4424886,PMID:4441366,PMID:5099217,PMID:8329439"	
+R4142	Mitochondrial Carrier (MC) TCDB:2.A.29.2.2	0	"PMID:10585886,PMID:14598172,PMID:4424886,PMID:4441366,PMID:5099217,PMID:8329439"	
+R4143	Mitochondrial Carrier (MC) TCDB:2.A.29.2.2	0	"PMID:10585886,PMID:14598172,PMID:4424886,PMID:4441366,PMID:5099217,PMID:8329439"	
+R4144	Mitochondrial Carrier (MC) TCDB:2.A.29.2.2	0	"PMID:10585886,PMID:14598172,PMID:4424886,PMID:4441366,PMID:5099217,PMID:8329439"	
+R4158	Mitochondrial Carrier (MC) TCDB:2.A.29.2.7	0	"PMID:15845418,PMID:16600197,PMID:9639574"	
+R4170	ATP-binding Cassette (ABC) TCDB:3.A.1.204.5	0	PMID:15209530	
+R4187	Resistance-Nodulation-Cell Division (RND) TCDB:2.A.65.1.1	0	"PMID:11023036,PMID:1554704,PMID:18021224,PMID:4553030,PMID:8725559"	
+R4188	Resistance-Nodulation-Cell Division (RND) TCDB:2.A.65.1.1	0	"PMID:11023036,PMID:1554704,PMID:18021224,PMID:4553030,PMID:8725559"	
+R4190	Facilitated diffusion	0	"PMID:14739191,PMID:14977409,PMID:14998787,PMID:16109384,PMID:16171773,PMID:16750224"	
+R4269	albumin  Protein assembly	0	"PMID:10049700,PMID:10574970,PMID:11389679,PMID:11557028,PMID:11564694,PMID:12824232,PMID:12930836,PMID:14574404,PMID:16288981,PMID:911815"	
+R4271	"serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1  Protein assembly"	0	"PMID:10049700,PMID:10574970,PMID:11389679,PMID:11557028,PMID:11564694,PMID:12824232,PMID:12930836,PMID:14574404,PMID:16288981,PMID:911815"	
+R4272	apolipoprotein B  Protein assembly	0	"PMID:10049700,PMID:10574970,PMID:11389679,PMID:11557028,PMID:11564694,PMID:12824232,PMID:12930836,PMID:14574404,PMID:16288981,PMID:911815"	
+R4275	Apo-CIB Protein assembly	0	"PMID:10049700,PMID:10574970,PMID:11389679,PMID:11557028,PMID:11564694,PMID:12824232,PMID:12930836,PMID:14574404,PMID:16288981,PMID:911815"	
+R4276	Apo-CII Protein assembly	0	"PMID:10049700,PMID:10574970,PMID:11389679,PMID:11557028,PMID:11564694,PMID:12824232,PMID:12930836,PMID:14574404,PMID:16288981,PMID:911815"	
+R4277	Apo-CIII Protein assembly	0	"PMID:10049700,PMID:10574970,PMID:11389679,PMID:11557028,PMID:11564694,PMID:12824232,PMID:12930836,PMID:14574404,PMID:16288981,PMID:911815"	
+R4278	Fibrinogen alpha chain Protein assembly	0	"PMID:10049700,PMID:10574970,PMID:11389679,PMID:11557028,PMID:11564694,PMID:12824232,PMID:12930836,PMID:14574404,PMID:16288981,PMID:911815"	
+R4280	Plasminogen Protein assembly	0	"PMID:10049700,PMID:10574970,PMID:11389679,PMID:11557028,PMID:11564694,PMID:12824232,PMID:12930836,PMID:14574404,PMID:16288981,PMID:911815"	
+R4281	Prothrombin Protein assembly	0	"PMID:10049700,PMID:10574970,PMID:11389679,PMID:11557028,PMID:11564694,PMID:12824232,PMID:12930836,PMID:14574404,PMID:16288981,PMID:911815"	
+R4282	T9 Protein assembly	0	"PMID:10049700,PMID:10574970,PMID:11389679,PMID:11557028,PMID:11564694,PMID:12824232,PMID:12930836,PMID:14574404,PMID:16288981,PMID:911815"	
+R4285	Apo-E Protein assembly	0	PMID:11741334	
+R4286	Apo-AI Protein assembly	0	PMID:11741334	
+R4340	EC:6.2.1.3	0	PMID:8584017	
+R4341	EC:6.2.1.3	0	PMID:8584017	
+R4342	EC:6.2.1.3	0	PMID:8584017	
+R4343	EC:6.2.1.3	0	PMID:8584017	
+R4344	EC:6.2.1.3	0	PMID:8584017	
+R4345	EC:6.2.1.3	0	PMID:8584017	
+R4346	EC:6.2.1.3	0	PMID:8584017	
+R4347	EC:6.2.1.3	0	PMID:8584017	
+R4348	EC:6.2.1.3	0	PMID:8584017	
+R4352	ADF Protein assembly	0	"PMID:14702039,PMID:15164053,PMID:16097034,PMID:1874447,PMID:1998498,PMID:2176490,PMID:2785919,PMID:3170595"	
+R4361	fatty acid synthase  Polyunsaturated fatty acid biosynthesis EC:2.3.1.85	0	"PMID:11750882,PMID:4452359,PMID:6137188,PMID:7567999,PMID:7834997,PMID:8962082"	
+R4362	fatty acid synthase  Polyunsaturated fatty acid biosynthesis EC:2.3.1.85	0	PMID:7567999	
+R4363	fatty acid synthase  Polyunsaturated fatty acid biosynthesis EC:2.3.1.85	0	PMID:7567999	
+R4442	2-Deoxyuridine 5-diphosphate:oxidized-thioredoxin 2-oxidoreductase Pyrimidine metabolism EC:1.17.4.1	0	"PMID:5553404,PMID:5671058"	
+R4443	2-Deoxyuridine 5-diphosphate:oxidized-thioredoxin 2-oxidoreductase Pyrimidine metabolism EC:1.17.4.1	0	"PMID:5553404,PMID:5671058"	
+R4451	EC:1.3.3.6	0	"PMID:17603022,PMID:6240978,PMID:7876265"	
+R4452	EC:1.3.3.6	0	"PMID:17603022,PMID:6240978,PMID:7876265"	
+R4453	EC:1.3.3.6	0	"PMID:17603022,PMID:6240978,PMID:7876265"	
+R4454	EC:1.3.3.6	0	"PMID:17603022,PMID:1774065,PMID:3597357,PMID:6240978,PMID:7876265"	
+R4455	EC:1.3.3.6	0	"PMID:17603022,PMID:1774065,PMID:3597357,PMID:6240978,PMID:7876265"	
+R4456	EC:1.3.3.6	0	"PMID:17603022,PMID:1774065,PMID:3597357,PMID:6240978,PMID:7876265"	
+R4457	EC:1.3.3.6	0	"PMID:17603022,PMID:1774065,PMID:3597357,PMID:6240978,PMID:7876265"	
+R4458	EC:1.3.3.6	0	"PMID:17603022,PMID:1774065,PMID:3597357,PMID:6240978,PMID:7876265"	
+R4459	EC:1.3.3.6	0	"PMID:17603022,PMID:1774065,PMID:3597357,PMID:6240978,PMID:7876265"	
+R4471	EC:4.2.1.17	0		
+R4472	EC:1.1.1.35	0		
+R4475	EC:6.2.1.3	0	PMID:8584017	
+R4488	ATP-binding Cassette (ABC) TCDB:3.A.1.211.1	0	PMID:16858612	
+R4489	ATP-binding Cassette (ABC) TCDB:3.A.1.211.1	0	PMID:16858612	
+R4490	ATP-binding Cassette (ABC) TCDB:3.A.1.211.1	0	PMID:16858612	
+R4491	ATP-binding Cassette (ABC) TCDB:3.A.1.211.1	0	PMID:16858612	
+R4492	ATP-binding Cassette (ABC) TCDB:3.A.1.211.1	0	PMID:16858612	
+R4493	ATP-binding Cassette (ABC) TCDB:3.A.1.211.1	0	PMID:16858612	
+R4494	ATP-binding Cassette (ABC) TCDB:3.A.1.211.1	0	PMID:16858612	
+R4495	ATP-binding Cassette (ABC) TCDB:3.A.1.211.1	0	PMID:16858612	
+R4496	ATP-binding Cassette (ABC) TCDB:3.A.1.211.1	0	PMID:16858612	
+R4497	ATP-binding Cassette (ABC) TCDB:3.A.1.211.1	0	PMID:16858612	
+R4498	ATP-binding Cassette (ABC) TCDB:3.A.1.211.1	0	PMID:16858612	
+R4499	ATP-binding Cassette (ABC) TCDB:3.A.1.211.1	0	PMID:16858612	
+R4500	ATP-binding Cassette (ABC) TCDB:3.A.1.211.1	0	PMID:16858612	
+R4502	ATP-binding Cassette (ABC) TCDB:3.A.1.211.1	0	PMID:16858612	
+R4996	"Zinc (Zn2+)-Iron (Fe2+) Permease (ZIP), TCDB:2.A.55.2.3"	0	PMID:14530970	
+R5320	Mitochondrial Carrier (MC) TCDB:2.A.29.2.7	0	"PMID:10585886,PMID:14598172,PMID:4424886,PMID:4441366,PMID:5099217,PMID:8329439"	
+R5321	Mitochondrial Carrier (MC) TCDB:2.A.29.2.7	0	"PMID:10585886,PMID:14598172,PMID:4424886,PMID:4441366,PMID:5099217,PMID:8329439"	
+R5403	RE0512	0	PMID:7846063	
+R5404	RE0512	0	PMID:7846063	
+R5428	RE0580	0	PMID:10479480	
+R5434	RE0583	0	PMID:10479480	
+R5445	RE0702	0	"PMID:11013238,PMID:9665099"	
+R5447	RE0702	0	"PMID:11013238,PMID:9665099"	
+R5560	RE1514	0	"PMID:10479480,PMID:10675551,PMID:11707336,PMID:9784915"	
+R5561	RE1516	0	"PMID:10407780,PMID:11356167,PMID:8973539"	
+R5562	RE1516	0	"PMID:10407780,PMID:11356167,PMID:8973539"	
+R5563	RE1517	0	"PMID:10407780,PMID:11356167,PMID:8973539"	
+R5564	RE1517	0	"PMID:10407780,PMID:11356167,PMID:8973539"	
+R5565	RE1518	0	"PMID:10407780,PMID:11356167,PMID:8973539"	
+R5566	RE1518	0	"PMID:10407780,PMID:11356167,PMID:8973539"	
+R5567	RE1519	0	"PMID:10407780,PMID:11356167,PMID:8973539"	
+R5568	RE1519	0	"PMID:10407780,PMID:11356167,PMID:8973539"	
+R5569	RE1520	0	"PMID:10407780,PMID:7923814,PMID:9568246,PMID:9920399"	
+R5570	RE1520	0	"PMID:10407780,PMID:7923814,PMID:9568246,PMID:9920399"	
+R5571	RE1521	0	"PMID:10407780,PMID:7923814,PMID:9568246,PMID:9920399"	
+R5572	RE1521	0	"PMID:10407780,PMID:7923814,PMID:9568246,PMID:9920399"	
+R5573	RE1522	0	"PMID:10407780,PMID:7775433,PMID:7923814,PMID:9568246,PMID:9920399"	
+R5574	RE1522	0	"PMID:10407780,PMID:7775433,PMID:7923814,PMID:9568246,PMID:9920399"	
+R5575	RE1523	0	"PMID:10407780,PMID:7923814,PMID:9568246,PMID:9920399"	
+R5576	RE1523	0	"PMID:10407780,PMID:7923814,PMID:9568246,PMID:9920399"	
+R5578	RE1525	0	"PMID:10407780,PMID:7775433"	
+R5579	RE1525	0	"PMID:10407780,PMID:7775433"	
+R5581	RE1526	0	PMID:11451959	
+R5582	RE1526	0	PMID:11451959	
+R5584	RE1527	0	PMID:11451959	
+R5585	RE1527	0	PMID:0	
+R5602	RE1573	0	PMID:10407780	
+R5603	RE1573	0	PMID:10407780	
+R5753	RE2050	0	PMID:12244105	
+R5767	RE2112	0	"PMID:11344576,PMID:12393855"	
+R5883	RE2513	0	PMID:10753880	
+R5885	RE2513	0	PMID:10753880	
+R5887	RE2514	0	PMID:9450756	
+R5889	RE2514	0	PMID:9450756	
+R6005	RE2888	0	PMID:10600166	
+R6012	RE2908	0	"PMID:11427448,PMID:7923814,PMID:8319713,PMID:9920399"	
+R6013	RE2908	0	"PMID:11427448,PMID:7923814,PMID:8319713,PMID:9920399"	
+R6015	RE2909	0	"PMID:11427448,PMID:7923814,PMID:8319713,PMID:9920399"	
+R6016	RE2909	0	"PMID:11427448,PMID:7923814,PMID:8319713,PMID:9920399"	
+R6018	RE2910	0	PMID:11427448	
+R6019	RE2910	0	PMID:11427448	
+R6022	RE2912	0	"PMID:10479480,PMID:9784915"	
+R6023	RE2913	0	"PMID:1047780,PMID:11135616,PMID:8973539"	
+R6024	RE2913	0	"PMID:1047780,PMID:11135616,PMID:8973539"	
+R6025	RE2914	0	"PMID:1047780,PMID:11135616,PMID:8973539"	
+R6026	RE2914	0	"PMID:1047780,PMID:11135616,PMID:8973539"	
+R6027	RE2915	0	"PMID:1047780,PMID:11135616,PMID:8973539"	
+R6028	RE2915	0	"PMID:1047780,PMID:11135616,PMID:8973539"	
+R6033	RE2919	0	"PMID:10407780,PMID:7923814,PMID:9568246,PMID:9920399"	
+R6034	RE2919	0	"PMID:10407780,PMID:7923814,PMID:9568246,PMID:9920399"	
+R6035	RE2920	0	"PMID:10407780,PMID:7923814,PMID:9568246,PMID:9920399"	
+R6036	RE2920	0	"PMID:10407780,PMID:7923814,PMID:9568246,PMID:9920399"	
+R6037	RE2921	0	"PMID:10407780,PMID:7923814,PMID:9568246,PMID:9920399"	
+R6038	RE2921	0	"PMID:10407780,PMID:7923814,PMID:9568246,PMID:9920399"	
+R6040	RE2954	0	"PMID:10585400,PMID:8967971"	
+R6042	RE2972	0	"PMID:10358929,PMID:11493657,PMID:7961848,PMID:9211928"	
+R6043	RE2972	0	"PMID:10358929,PMID:11493657,PMID:7961848,PMID:9211928"	
+R6044	RE2972	0	"PMID:10358929,PMID:11493657,PMID:9043658,PMID:9211928"	
+R6045	RE2973	0	"PMID:10358929,PMID:11493657,PMID:9043658,PMID:9211928"	
+R6046	RE2973	0	"PMID:10358929,PMID:11493657,PMID:9043658,PMID:9211928"	
+R6047	RE2973	0	"PMID:10358929,PMID:11493657,PMID:9043658,PMID:9211928"	
+R6048	RE2973	0	"PMID:10358929,PMID:11493657,PMID:9043658,PMID:9211928"	
+R6056	RE2985	0	"PMID:10407780,PMID:7775433"	
+R6057	RE2985	0	"PMID:10407780,PMID:7775433"	
+R6058	RE2986	0	"PMID:10407780,PMID:10970790,PMID:7775433"	
+R6059	RE2987	0	"PMID:10407780,PMID:10970790,PMID:7775433"	
+R6062	RE2990	0	"PMID:10407780,PMID:7775433"	
+R6063	RE2991	0	"PMID:10407780,PMID:7775433"	
+R6064	RE2992	0	"PMID:10407780,PMID:7775433"	
+R6065	RE2992	0	"PMID:10407780,PMID:7775433"	
+R6067	RE2994	0	"PMID:10407780,PMID:7775433"	
+R6068	RE2995	0	"PMID:10407780,PMID:7775433"	
+R6069	RE2995	0	"PMID:10407780,PMID:7775433"	
+R6071	RE2997	0	"PMID:10407780,PMID:7775433"	
+R6072	RE2998	0	"PMID:10407780,PMID:7775433"	
+R6073	RE2999	0	"PMID:10407780,PMID:7775433"	
+R6076	RE3002	0	"PMID:10407780,PMID:7775433"	
+R6077	RE3003	0	"PMID:10407780,PMID:7775433"	
+R6078	RE3004	0	"PMID:10407780,PMID:7775433"	
+R6079	RE3005	0	"PMID:10407780,PMID:7775433"	
+R6132	RE3074	0	"PMID:11060359,PMID:11356164"	IT - fixed proton
+R6134	RE3075	0	PMID:11356164	IT - fixed proton
+R6137	RE3079	0	PMID:11356164	IT - fixed proton
+R6138	RE3081	0	PMID:11060359	
+R6139	RE3082	0	PMID:11060359	
+R6141	RE3084	0	"PMID:11356164,PMID:9271077"	
+R6142	RE3086	0	"PMID:11356164,PMID:9271077"	
+R6143	RE3087	0	PMID:11060359	
+R6144	RE3088	0	PMID:11060359	
+R6145	RE3089	0	"PMID:11356164,PMID:9271077"	
+R6147	RE3092	0	PMID:11060359	
+R6148	RE3093	0	PMID:11060359	
+R6149	RE3095	0	PMID:9164836	
+R6150	RE3095	0	PMID:9164836	
+R6169	RE3114	0	"PMID:10479480,PMID:9784915"	IT - fixed proton
+R6188	RE3132	0	"PMID:10479480,PMID:9784915"	IT - fixed proton
+R6193	RE3140	0	PMID:11734209	
+R6194	RE3141	0	PMID:11734209	
+R6197	RE3145	0	PMID:11734209	
+R6199	RE3146	0	PMID:9784915	IT - fixed proton
+R6216	RE3156	0	PMID:11734209	
+R6217	RE3157	0	PMID:11734209	
+R6219	RE3159	0	PMID:11734209	
+R6221	RE3160	0	"PMID:10479480,PMID:9784915"	IT - fixed proton
+R6254	RE3177	0	"PMID:10407780,PMID:9469587,PMID:9819701"	
+R6255	RE3178	0	"PMID:10407780,PMID:9469587,PMID:9819701"	
+R6256	RE3179	0	"PMID:10407780,PMID:9469587,PMID:9819701"	
+R6265	RE3192	0	"PMID:10407780,PMID:9469587,PMID:9819701"	
+R6266	RE3193	0	"PMID:10407780,PMID:9469587,PMID:9819701"	
+R6267	RE3194	0	"PMID:10407780,PMID:9469587,PMID:9819701"	
+R6316	RE3247	0	PMID:10709654	
+R6317	RE3247	0	PMID:10709654	
+R6318	RE3248	0	PMID:10709654	
+R6319	RE3248	0	PMID:10709654	
+R6321	RE3250	0	PMID:10709654	
+R6322	RE3250	0	PMID:10709654	
+R6349	RE3273	0	PMID:3135804	
+R6350	RE3273	0	PMID:3135804	IT - changed to 1 h[c]
+R6351	RE3273	0	PMID:3135804	
+R6361	RE3301	0	PMID:11182251	
+R6362	RE3301	0	PMID:11182251	
+R6363	RE3301	0	PMID:11182251	
+R6374	RE3334	0	PMID:7649996	
+R6375	RE3334	0	PMID:7649996	
+R6378	RE3335	0	PMID:9784915	IT - fixed proton
+R6379	RE3335	0	PMID:9784915	IT - fixed proton
+R6382	RE3337	0	PMID:7649996	
+R6383	RE3337	0	PMID:7649996	
+R6385	RE3338	0	PMID:7649996	
+R6386	RE3338	0	PMID:7649996	
+R6391	RE3340	0	PMID:7649996	
+R6392	RE3340	0	PMID:7649996	
+R6393	RE3341	0	PMID:7649996	
+R6394	RE3341	0	PMID:7649996	
+R6400	RE3344	0	PMID:7649996	
+R6401	RE3344	0	PMID:7649996	
+R6404	RE3345	0	PMID:9784915	IT - fixed proton
+R6405	RE3345	0	PMID:9784915	IT - fixed proton
+R6423	RE3385	0	PMID:11356170	
+R6424	RE3386	0	PMID:11356170	
+R6425	RE3387	0	PMID:11356170	
+R6427	RE3389	0	PMID:11356170	
+R6428	RE3390	0	PMID:11356170	
+R6431	RE3393	0	PMID:11356170	
+R6433	RE3395	0	PMID:11356170	
+R6435	RE3397	0	PMID:11356170	
+R6436	RE3398	0	PMID:11356170	
+R6437	RE3399	0	PMID:11356170	
+R6439	RE3401	0	PMID:11356170	
+R6440	RE3402	0	PMID:11356170	
+R6479	RE3445	0	"PMID:11368003,PMID:9862787"	
+R6480	RE3445	0	"PMID:11368003,PMID:9862787"	
+R6483	RE3446	0	PMID:9784915	IT - fixed proton
+R6484	RE3446	0	PMID:9784915	IT - fixed proton
+R6485	RE3447	0	"PMID:11368003,PMID:9862787"	
+R6486	RE3447	0	"PMID:11368003,PMID:9862787"	
+R6488	RE3448	0	"PMID:11368003,PMID:9862787"	
+R6489	RE3448	0	"PMID:11368003,PMID:9862787"	
+R6520	RE3488	0	PMID:11034610	
+R6521	RE3488	0	PMID:11034610	
+R6606	RE3561	0	PMID:12054595	
+R6607	RE3561	0	PMID:12054595	
+R6610	RE3562	0	PMID:9784915	IT - fixed proton
+R6611	RE3562	0	PMID:9784915	IT - fixed proton
+R6612	RE3563	0	PMID:12054595	
+R6613	RE3563	0	PMID:12054595	
+R6615	RE3564	0	PMID:12054595	
+R6616	RE3564	0	PMID:12054595	
+R6623	RE3571	0	"PMID:9115911,PMID:9732298"	
+R6624	RE3572	0	PMID:12054595	
+R6625	RE3573	0	PMID:12054595	
+R6628	RE3576	0	PMID:12054595	
+R6629	RE3577	0	PMID:9784915	IT - fixed proton
+R6630	RE3578	0	PMID:12054595	
+R6631	RE3580	0	PMID:12054595	
+R6633	RE3582	0	PMID:12054595	
+R6634	RE3583	0	PMID:12054595	
+R6644	RE3624	0	"PMID:11356164,PMID:7775433"	
+R6645	RE3624	0	"PMID:11356164,PMID:7775433"	
+R6646	RE3626	0	"PMID:11356164,PMID:7775433"	
+R6648	RE3627	0	"PMID:11356164,PMID:7775433"	
+R6649	RE3627	0	"PMID:11356164,PMID:7775433"	
+R6650	RE3628	0	"PMID:11356164,PMID:7775433"	
+R6807	production of decanoylcarnitine	4	"PMID: 18767270, PMID: 18075239"	
+R6809	production of decenoylcarnitine	4	PMID: 7551818 	
+R6811	production of decadienoylcarnitine	4	PMID: 19578400	
+R6814	production of sebacoylcarnitine	4	"PMID: 20173117, doi:10.1016/j.physletb.2003.10.071"	
+R6816	production of 3-OHdecanoylcarnitinec	4	"clinical chemistry 46:2, 149-155(2000), Biochemistry 2005,  44, 5234-5245"	
+R6817	production of dodecanoylcarnitine	4	"PMID: 12828998 , PMID: 9498103, PMID: 3955080"	
+R6818	production of dodecenoylcarnitine	4	PMID: 18678604	
+R6823	production of 3-OHdodecanoylcarnitinec	4	"clinical chemistry 46:2, 149-155(2000), Biochemistry 2005,  44, 5234-5245"	
+R6824	production of myristoylcarnitine	4	"PMID: 19137688, PMID: 15653102, PMID: 12403251 "	
+R6826	production of tetradecenoylcarnitine	4	"PMID: 19327992 , PMID: 18670371, PMID: 15466478, PMID: 11433098"	
+R6827	production of 3-hydroxytetradecenoyl carnitine	2	PMID: 21281499	
+R6830	production of tetradecadienoylcarnitine	4	PMID: 11433098	
+R6831	production of 3-hydroxytetradeca dienoyl carnitine	2	PMID: 21281499	
+R6833	production of 3-hydroxytetradecanoylcarnitine	4	"molecular genetics and metabolism,Volume 85, Issue 2, June 2005, Pages 108-114 "	"molecular genetics and metabolism,Volume 85, Issue 2, June 2005, Pages 108-114 "
+R6834	production of 3-hydroxyhexadecenoylcarnitine	4	"Biochemistry 2005, 44, 5234-5245"	
+R6836	production of 3-hydroxy hexadecadienoyl carnitine	2	PMID: 21281499	
+R6838	production of hexadecanedioylcarnitine	4	"journal of lipid research vol 15(1974), PMID: 20173117"	
+R6840	production of 3-hydroxyhexadecanoylcarnitinec	4	"Biochemistry 2005, 44, 5234-5245"	
+R6842	production of 3-hydroxyoctadecenoylcarnitinec	4	"Biochemistry 2005, 44, 5234-5245"	
+R6843	production of 3-hydroxyoctadecadienoylcarnitine	4	"Biochemistry 2005, 44, 5234-5245"	
+R6844	production of 3-hydroxyoctadecanoylcarnitine	4	PMID: 7977144	
+R6846	production of propionylcarnitine	4	"PMID: 20056909, PMCID: PMC2914534"	
+R6848	production of butyrylcarnitine	4	"PMID: 20591710, PMID: 18175080"	
+R6853	production of 3-hydroxybytyryl carnitinec	4	PMID: 17442642	
+R6857	production of isovalerylcarnitine	4	"PMID: 20807522, PMID: 20591710"	
+R6858	production of tiglylcarnitine	4	"PMID: 8930414, PMID: 14518824"	
+R6860	production of hexanoylcarnitine	4	"PMID: 8214594, PMID: 8496747, PMID: 8491807"	
+R6865	production of adipoylcarnitine	4	doi:10.1016/j.physletb.2003.10.071	
+R6867	production of octanoylcarnitine	4	"PMID: 21083904, PMID: 20413428"	
+R6869	production of ocetenoylcarnitine	4	"Go Tajimaa et al,journal of chromatography B,volume 823,issue 2,5 September 2005, Pages 122-130 "	
+R6872	production of suberylcarnitine	4	doi:10.1016/j.physletb.2003.10.071	
+R6875	transport of Decanoate (n-C10:0) into the cell by diffusion	2	"Glatz JFC, Luiken JJFP, Bonen A. (2010). Physiological Reviews 90: 367-417, Kamp F, Hamilton JA. (2006). Prostaglandins, Leukotrienes and Essential Fatty Acids 75: 149-59, PMCID: PMC2785172, Evtodienko VY, Bondarenko DI, Antonenko YN. (1999). Biochimica et Biophysica Acta (BBA) - Biomembranes 1420: 95-103"	simple diffusion of fatty acids freely across membranes
+R6886	absorption or uptake of 13-docosenoic acid into cells	3	"PMID: 16868315, PMID: 17901542, journal of lipid research (2006) vol 47 page 665-672, 16357361, PMID: 17495600"	fatty acid transport proteins mediate the uptake of long and very long chain fatty acids. These transport proteins are widely distributed and thought to possess fatty acid activating properties. May requires other proteins also.
+R6932	fatty acid beta oxidation(C10:1-->C10:2)m	4	PMID: 15337167	acyl coA dehydrogenase enzyme catalyzes this reaction in  mitochondria.first step of beta oxidation
+R6933	fatty acid beta oxidation(C10:1-->C10:2)x	4	"PMID: 18536048, PMID: 17458872"	peroxisomal acyl coA oxidase reaction.
+R6935	fatty acid beta oxidation(C10:1-->C8:0)x	4	PMID:20558530	peroxisomal beta oxidation reaction.
+R6937	isomerization(C10:1)x	4	"PNAS August 1, 1992 vol. 89 no. 15 6673-6677,PMID: 2303409,PMID: 10419495,  FEBS LETTERS vol.215 no.2 228-232"	delta3-cis->delta 2-trans isomerase
+R6941	fatty acid beta oxidation(C10:2-->C10:3)x	4	"PMID: 18536048, PMID: 17458872"	peroxisomal acyl coA oxidase reaction.
+R6943	fatty acid beta oxidation(C10:2-->C8:1)x	4	PMID:20558530	peroxisomal beta oxidation reaction.
+R6945	isomerization(C10:2)x	4	"PNAS August 1, 1992 vol. 89 no. 15 6673-6677,PMID: 2303409,PMID: 10419495,  FEBS LETTERS vol.215 no.2 228-232"	delta3-cis->delta 2-trans isomerase
+R6950	fatty acid beta oxidation(C10-->C8)x	4	"PMID: 11411544, HMDB01070"	"CPT1,CACT and CPT2 in mitochondria then tranports it to mitochondrial matrix where it is further oxidized."
+R6951	fatty acid beta oxidation(C10DC-->C8DC)	4	"PMID:15060085,PMID:9827430"	
+R6952	fatty acid beta oxidation(C11br-->C9br)x	4	"HMDB06202,PMID:11591435"	"In Recon 1, the neutral formula for dmnoncoa should be corrected to C32H56N7O17P3S (HMDB11604) and charged formula to C32H52N7O17P3S with -4 as the charge. Therefore the reaction appears unbalanced here. "
+R6955	fatty acid beta xoidation(C12:1-->C10)x	4	"PMID: 10709653, PMID: 11296696, PMID: 11330072, PMID: 16766224"	
+R6956	isomerization(C12:1)x	4	"PNAS August 1, 1992 vol. 89 no. 15 6673-6677,PMID: 2303409,PMID: 10419495,  FEBS LETTERS vol.215 no.2 228-232"	
+R6959	isomerization(C12:2)x	4	"PNAS August 1, 1992 vol. 89 no. 15 6673-6677,PMID: 2303409,PMID: 10419495,  FEBS LETTERS vol.215 no.2 228-232"	delta3-cis->delta 2-trans isomerase
+R6961	fatty acid beta oxidation(C12:3-->C10:2)x	4	"PMID:20558530, PMID:20064629"	beta oxidation
+R6963	isomerization(C12:3)x	4	"PNAS August 1, 1992 vol. 89 no. 15 6673-6677,PMID: 2303409,PMID: 10419495,  FEBS LETTERS vol.215 no.2 228-232"	delta-3-cis-delta2-trans isomerase
+R6965	fatty acid beta oxidation(C12-->C10)x	4	"PMID: 11411544, HMDB06404"	"after this stage,the activated fatty acid is transported to mitochondria,carnitine helps in the export."
+R6967	fatty acid beta oxidation(C12DC-->C10DC)x	4	"PMID:15060085,PMID:9827430,The Tohoku Journal of Experimental Medicine.Vol. 221 (2010) , No. 3 pp.191-195"	
+R6969	formation of dodecanedioyl carnitine	4	"Korman SH, Waterham HR, Gutman A, Jakobs C, Wanders RJA. (2005). Molecular Genetics and Metabolism 86: 337-43"	elevated in urine in C-12 dicarboxylic aciduria 
+R6971	fatty acid beta oxidation(C13br-->C11br)x	4	"HMDB02221,PMID:11591435"	
+R6974	fatty acid beta xoidation(C14:1-->C12:1)x	4	"PMID: 10709653, PMID: 11296696, PMID: 11330072, PMID: 16766224"	
+R6977	fatty acid beta oxidation(C14:2-->C12:2)x	4	PMID:20558530	peroxisomal beta oxidation reaction
+R6980	fatty acid beta oxidation(C14:3-->C12:3)x	4	PMID:20558530	peroxisomal beta oxidation reaction.
+R6982	fatty acid beta oxidation(C14-->C12)x	4	PMID: 11411544	the peroxosomal enzymes i.e acyl coA oxidases are specific for C6 or C4 acyl coA.
+R6984	fatty acid beta oxidation(C14DC-->C12DC)x	4	"PMID:15060085,PMID:9827430, HMDB02095,PMID: 12651823"	"as a C3DC.HMDB02095,PMID: 12651823"
+R6985	fatty acid activation(C15)x	4	"PMID:11591435,PMID: 10198260"	PMID:11591435
+R6986	fatty acid beta oxidation(C15br-->C13br)x	2	"HMDB02396,PMID:11591435"	
+R6991	fatty acid beta xoidation(C16:1-->C14:1)x	4	"PMID: 10709653, PMID: 11296696, PMID: 11330072, PMID: 16766224"	
+R6995	fatty acid beta oxidation(C16:3-->C14:2)x	4	PMID:20558530	peroxisomal beta oxidation reaction
+R6998	fatty acid beta oxidation(C16:3-->C16:4)x	4	"PMID: 18536048, PMID: 17458872"	peroxisomal acyl coA oxidase reaction.
+R7001	isomerization(C16:3)x	4	"PNAS August 1, 1992 vol. 89 no. 15 6673-6677,PMID: 2303409,PMID: 10419495,  FEBS LETTERS vol.215 no.2 228-232"	delta3-cis->delta 2-trans isomerase
+R7003	fatty acid beta oxidation(C16:4-->C14:3)x	4	"PMID:7876265, PMID:20558530"	beta oxidation
+R7006	fatty acid beta oxidation(C16:4-->C16:5)x	4	"PMID: 18536048, PMID: 17458872"	peroxisomal acyl coA oxidase reaction.
+R7009	isomerization(C16:4)x	4	"PNAS August 1, 1992 vol. 89 no. 15 6673-6677,PMID: 2303409,PMID: 10419495,  FEBS LETTERS vol.215 no.2 228-232"	delta3-cis- delta2-trans isomerase
+R7012	fatty acid activation(C16br)x	4	PMID: 11591435	
+R7014	fatty acid beta oxidation(C16-->C14)x	4	"PMID: 11411544, PMID:7876265, HMDB01521"	sequential beta oxidation of palmitoyl coA upto the stage of either hexanoyl coA or butanoyl coA.
+R7016	fatty acid beta oxidation(C16DC-->C14DC)x	4	"PMID:15060085,PMID:9827430"	to acetyl coA and accumulates and then combines with free carnitine and ultimately excreated in urine
+R7021	fatty acid beta xoidation(C18:1-->C16:1)x	4	"PMID: 10709653, PMID: 11296696, PMID: 11330072, PMID: 16766224, PMID: 3821403"	
+R7028	fatty acid beta oxidation(C18:4-->C16:3)x	4	"PMID:20064629, journal of lipid research 1998 vol 39 pages 2161-2171"	peroxisomal beta oxidation reaction
+R7030	fatty acid beta oxidation(C18:4-->C16:4)x	4	PMID:20558530	peroxisoaml beta oxidation
+R7032	isomerization(C18:4)x	4	"PNAS August 1, 1992 vol. 89 no. 15 6673-6677,PMID: 2303409,PMID: 10419495,  FEBS LETTERS vol.215 no.2 228-232"	delta3-cis->delta 2-trans isomerase
+R7036	fatty acid beta xoidation(C20:1-->C18:1)x	4	"PMID: 20626744, PMID: 3821403"	one cycle of peroxisomal beta oxidation
+R7038	fatty acid beta oxidation(C20:4-->C20:5)x	4	"PMID: 18536048, PMID: 17458872"	peroxisomal acyl coA oxidase reaction.
+R7039	fatty acid beta oxidation(C20:5-->C18:4)x	4	"PMID:20064629, journal of lipid research 1998 vol 39 pages 2161-2171"	peroxisomal beta oxidation reaction
+R7041	fatty acid beta oxidation(C22:1-->C20:1)x	4	PMID: 20626744 	one cycle of peroxisomal beta oxidation
+R7043	fatty acid beta oxidation(C22:5-->C20:4)x	4	"PMID:20064629, journal of lipid research 1998 vol 39 pages 2161-2171"	peroxisomal beta oxidation
+R7045	fatty acid beta oxidation(C22:5-->C22:6)x	4	"PMID: 18536048, PMID: 17458872"	peroxisomal acyl coA oxidase reaction.
+R7047	isomerization(C22:5)x	4	"PNAS August 1, 1992 vol. 89 no. 15 6673-6677,PMID: 2303409,PMID: 10419495,  FEBS LETTERS vol.215 no.2 228-232"	delta3-cis->delta 2-trans isomerase
+R7054	fatty acid beta oxidation(C22-->C20)x	4	PMID: 11124748 	one cycle of peroxisomal beta oxidation
+R7057	fatty acid beta oxidation(C24:1-->C22:1)x	4	PMID: 20626744 	one cycle of peroxisomal beta oxidation
+R7058	Fatty acid beta oxidation(C24-->C22)x	4	PMCID:PMC1131640	one cycle of beta oxidation.this occurs in peroxisomes.the peroxisomal multifunctional enzyme acts as a catalyst for the formation of ketoacyl intermediates.
+R7059	malonylcoa-->malonylcarnitine	4	"PMID: 12651823,PMID: 18192268"	"due to deficiency of malonyl coA decarboxylase enzyme,malonyl coA cannot be converted back "
+R7061	succ-->C4DCc	4	PMID:15060085	
+R7063	production of glutaryl carnitine	4	"http://www.perkinelmergenetics.com/GlutaricAcidemiaTypeI.html ,  PMID: 16602100"	"1.2.4.2 is the E.C no.due to the absence of glutaryl coA dehydrogenase, glutaryl coA accumulates and combines with free carnitine forming glutaryl carnitine.C5DC then excreated in urine."
+R7065	(3-hydroxyisovalerylcoa-->3-hydroxyisovalerylcarnitine)c	4	"clinica chimica acta 240 (1995) 35-51, http://www.perkinelmergenetics.com/3Hydroxy3MethylglutarylCoALyaseDeficiency.html"	deficiency of 3-methylcrotonylcoa carboxylase.clinica chimica acta 240 (1995) 35-51
+R7067	fatty acid beta oxidation(C6:1-->C4:0)x	4	PMID:20064629	"peroxisomal beta oxidation reaction.the butyryl coA is then transported to mitochondria, where it is further oxidized."
+R7069	isomerization(C6:1)x	4	"PNAS August 1, 1992 vol. 89 no. 15 6673-6677,PMID: 2303409,PMID: 10419495,  FEBS LETTERS vol.215 no.2 228-232"	delta3-cis->delta 2-trans isomerase
+R7071	fatty acid beta oxidation(C6-->C4)x	4	"PMID: 11356164, HMDB01088"	
+R7072	fatty acid beta oxidation(C6DC-->C4DC)x	4	"PMID:15060085,PMID:9827430"	
+R7075	fatty acid beta oxidation(C8:1-->C6:1)x	4	PMID:20558530	peroxisomal beta oxidation reaction.
+R7077	fatty acid beta oxidation(C8-->C6)x	4	"PMID: 11411544, HMDB02845"	
+R7078	fatty acid beta oxidation(C8DC-->C6DC)x	4	"PMID:15060085,PMID:9827430"	
+R7092	fatty acid beta oxidation(C12:2-->C10:1)x	4	PMID:20558530	peroxisomal beta oxidation
+R7116	transport of 11-octadecenoyl carnitine into the mitochondrial matrix	4	"Biochemica et Biophysica Acta 1486(2000) 1-17, Eur. J. Biochem. 244, 1-14 (1997) FEBS 1997, Biochemica et Biophysica Acta 1546(2001) 21-43."	
+R7119	uptake of vaccenic acid by cells	3	"PMID: 16868315, PMID: 17901542, journal of lipid research (2006) vol 47 page 665-672, 16357361, PMID: 17495600"	fatty acid transport proteins mediate the uptake of long and very long chain fatty acids. These transport proteins are widely distributed and thought to possess fatty acid activating properties. May requires other proteins also.
+R7122	transport of Octadecenoyl-CoA into mitochondrial matrix	4	"Biochemica et Biophysica Acta 1486(2000) 1-17, Eur. J. Biochem. 244, 1-14 (1997) FEBS 1997, Biochemica et Biophysica Acta 1546(2001) 21-43."	
+R7169	Transport of L-Carnosine by hPT3 or hPT4 peptide transporter.	4	"PMID: 16289537, PMID: 12905028, PMID: 17681807"	"hPT3 (human peptide transporter 3) transports histidine and di-peptides from the lysosomes into the cytosol. Co-transports proton, expressed in lung, thymus, spleen and faintly in brain, placenta, liver, adrenal gland and heart (PMID: 12905028). hPT4 expressed in brain, placenta and retina. Transports carnosine and histidine in a proton symport mechanism. (PMID: 12905028)."
+R7198	Transport of L-Histidine by hPT3 or hPT4 peptide transporters.	4	"PMID: 16289537, PMID: 12905028, PMID: 17681807"	"hPT3 (human peptide transporter 3) transports histidine and di-peptides from the lysosomes into the cytosol. Co-transports proton, expressed in lung, thymus, spleen and faintly in brain, placenta, liver, adrenal gland and heart (PMID: 12905028). hPT4 expressed in brain, placenta and retina. Transports carnosine and histidine in a proton symport mechanism. (PMID: 12905028)"
+R7255	efflux of alpha-Tocopherol into the lyphatics in chylomicrons	4	"PMID: 15213020, PMID: 17320165"	ATP binding cassete required for efflux of the vitamin E into the lymph form the enterocytes.

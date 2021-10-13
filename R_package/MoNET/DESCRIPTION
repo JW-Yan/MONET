@@ -1,0 +1,21 @@
+Package: MoNET
+Type: Package
+Title: Multi-omics Network Exploration
+Version: 1.0
+Author: Feng Chen
+Maintainer: Feng Chen <1034271345@qq.com>
+Description: MoNet provides exploration and analysis of a manually integrative network, 
+    characterizing multiple types of omics relationships by combing interactions from 
+    metabolic network, transcription factor binding network, and protein interaction 
+    network in existing databases. It provides functions for subnetwork extraction, 
+    path identification, node annotation, gene enrichment and subnetwork visualization.
+Depends: R (>= 3.5.0)
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Imports: igraph (>= 1.2.2)
+Suggests: enrichR (>= 2.1),utils,grDevices,graphics
+Repository: CRAN
+RoxygenNote: 7.1.1
+NeedsCompilation: no
+Packaged: 2021-10-13 06:24:25 UTC; Administrator

@@ -1,0 +1,703 @@
+Metabolite_ID	Metabolites	Names	Formulas	HMDB_ID	KEGG_ID	PubChem_ID	CHEBI_ID
+M23	h2o2[c]	Hydrogen peroxide	H2O2	HMDB03125	C00027	784	16240
+M24	nh4[c]	Ammonium	H4N	HMDB00051	C00014	223	28938
+M39	adp[c]	ADP	C10H12N5O10P2	HMDB01341	C00008	6022	16761
+M41	pi[c]	hydrogenphosphate	HO4P	HMDB00973	C00009	1004	43474
+M44	nadh[x]	Nicotinamide adenine dinucleotide - reduced	C21H27N7O14P2	HMDB01487	C00004	439153	16908
+M57	25hvitd3[c]	calcidiol	C27H44O2	HMDB03550	C01561		17933
+M60	pyr[c]	pyruvate	C3H3O3	HMDB00243	C00022	1060	32816
+M67	akg[m]	2-Oxoglutarate	C5H4O5	HMDB00208	C00026	51	30915
+M69	akg[c]	2-Oxoglutarate	C5H4O5	HMDB00208	C00026	51	30915
+M75	nadh[c]	Nicotinamide adenine dinucleotide - reduced	C21H27N7O14P2	HMDB01487	C00004	439153	16908
+M87	co2[m]	carbon dioxide	CO2	HMDB01967	C00011	280	16526
+M89	nadh[m]	Nicotinamide adenine dinucleotide - reduced	C21H27N7O14P2	HMDB01487	C00004	439153	16908
+M94	34dhpha[c]	(3,4-dihydroxyphenyl)acetate	C8H7O4	HMDB01336	C01161		41941
+M97	homoval[c]	Homovanillate	C9H9O4	HMDB00118	C05582	1738	545959
+M101	34dhoxmand[c]	3,4-Dihydroxymandelate	C8H7O5	HMDB01866	C05580	85782	27637
+M105	co2[c]	carbon dioxide	CO2	HMDB01967	C00011	280	16526
+M120	b2coa[m]	crotonoyl-CoA(4-)	C25H36N7O17P3S	HMDB02009	C00877	5280381	57332
+M135	3mlda[c]	3-Methylimidazoleacetic acid	C6H7N2O2	HMDB02820	C05828	75810	1606
+M142	3mox4hoxm[c]	3-Methoxy-4-hydroxymandelate	C9H9O5	HMDB00291	C05584	1245	20106
+M152	hyptaur[c]	Hypotaurine	C2H7NO2S	HMDB00965	C00519	107812	16668
+M155	so3[c]	Sulfite	O3S	HMDB00240	C00094	1100	48854
+M161	4abut[c]	4-Aminobutanoate	C4H9NO2	HMDB00112	C00334	119	16865
+M172	4hphac[c]	4-hydroxyphenylacetate	C8H7O3	HMDB00020	C00642	127	18101
+M216	5mthf[c]	5-Methyltetrahydrofolate	C20H24N7O6	HMDB01396	C00440	439234	15641
+M229	7dhchsterol[r]	cholesta-5,7-dien-3beta-ol	C27H44O	HMDB00032	C01164		17759
+M238	man[c]	D-Mannose	C6H12O6	HMDB00169	C00159	18950	4208
+M251	udp[g]	UDP	C9H11N2O12P2	HMDB00295	C00015	6031	17659
+M259	amp[c]	AMP	C10H12N5O7P	HMDB00045	C00020	6083	16027
+M260	ppi[c]	Diphosphate	HO7P2	HMDB00250	C00013	1023	29888
+M289	2maacoa[m]	2-methylacetoacetyl-CoA(4-)	C26H38N7O18P3S	HMDB01157	C03344		15476
+M293	accoa[x]	Acetyl-CoA	C23H34N7O17P3S	HMDB01206	C00024	444493	15351
+M298	3odcoa[x]	3-Oxodecanoyl-CoA	C31H48N7O18P3S	HMDB03939	C05265	440606	28528
+M299	occoa[x]	Octanoyl-CoA (n-C8:0CoA)	C29H46N7O17P3S	HMDB01070	C01944	380	57386
+M300	3oddcoa[x]	3-Oxododecanoyl-CoA	C33H52N7O18P3S	HMDB03937	C05263	440604	27868
+M301	dcacoa[x]	Decanoyl-CoA (n-C10:0CoA)	C31H50N7O17P3S	HMDB06404	C05274	440615	61430
+M302	3otdcoa[x]	3-Oxotetradecanoyl-CoA	C35H56N7O18P3S	HMDB03935	C05261	11966197	28726
+M303	ddcacoa[x]	Dodecanoyl-CoA (n-C12:0CoA)	C33H54N7O17P3S	HMDB03571	C01832	165436	15521
+M304	3ohdcoa[x]	3-oxopalmitoyl-CoA(4-)	C37H60N7O18P3S	HMDB06402	C05259	169621	15491
+M305	tdcoa[x]	Tetradecanoyl-CoA (n-C14:0CoA)	C35H58N7O17P3S	HMDB01521	C02593	25244582	57385
+M307	pmtcoa[x]	Palmitoyl-CoA (n-C16:0CoA)	C37H62N7O17P3S	HMDB01338	C00154	15667	15525
+M315	acald[x]	acetaldehyde	C2H4O	HMDB00990	C00084	177	15343
+M319	adp[m]	ADP	C10H12N5O10P2	HMDB01341	C00008	6022	16761
+M343	idp[c]	IDP(3-)	C10H11N4O11P2	HMDB03335	C00104	6831	17808
+M348	gam6p[c]	D-Glucosamine 6-phosphate	C6H13NO8P	HMDB01254	C00352	121988	15873
+M356	ac[c]	acetate	C2H3O2	HMDB00042	C00033	176	15366
+M359	ach[e]	acetylcholine	C7H16NO2	HMDB00895	C01996	187	15355
+M360	ac[e]	acetate	C2H3O2	HMDB00042	C00033	176	15366
+M381	man6p[c]	D-Mannose 6-phosphate	C6H11O9P	HMDB01078	C00275	65127	49728
+M384	acnam[l]	N-acetylneuraminate	C11H18NO9	HMDB00230	C19910	439197	45744
+M390	fad[m]	Flavin adenine dinucleotide oxidized	C27H31N9O15P2	HMDB01248	C00016	643975	16238
+M392	fadh2[m]	Flavin adenine dinucleotide reduced	C27H33N9O15P2	HMDB01197	C01352	446013	17877
+M399	h2o2[x]	Hydrogen peroxide	H2O2	HMDB03125	C00027	784	16240
+M400	hdd2coa[x]	trans-Hexadec-2-enoyl-CoA	C37H60N7O17P3S	HMDB03945	C05272	46173176	61526
+M401	ACP[c]	acyl carrier protein	C11H21N2O7PRS				18359
+M402	acACP[c]	Acetyl-ACP	C13H23N2O8PRS				NA
+M404	orn[c]	Ornithine	C5H13N2O2	HMDB00214	C00077	6262	15729
+M406	cit[m]	Citrate	C6H5O7	HMDB00094	C00158	311	30769
+M407	icit[m]	Isocitrate	C6H5O7	HMDB00193	C00311	1198	30887
+M408	dhcholoylcoa[x]	3alpha,7alpha-Dihydroxy-5beta-cholest-24-enoyl-CoA	C48H74N7O19P3S	HMDB06895	C05447	5280796	27393
+M409	fadh2[x]	Flavin adenine dinucleotide reduced	C27H33N9O15P2	HMDB01197	C01352	446013	17877
+M410	fad[x]	Flavin adenine dinucleotide oxidized	C27H31N9O15P2	HMDB01248	C00016	643975	16238
+M414	cholcoads[x]	3alpha,7alpha,12alpha-Trihydroxy-5beta-cholest-24-enoyl-CoA	C48H74N7O20P3S	HMDB06889	C05460	5280797	27505
+M425	13dpg[c]	3-Phospho-D-glyceroyl phosphate	C3H4O10P2	HMDB01270	C00236	439191	16001
+M432	ade[e]	Adenine	C5H5N5	HMDB00034	C00147	190	16708
+M437	gtp[c]	GTP	C10H12N5O14P3	HMDB01273	C00044	6830	15996
+M440	gdp[m]	GDP	C10H12N5O11P2	HMDB01201	C00035	8977	17552
+M442	datp[c]	dATP	C10H12N5O12P3	HMDB01532	C00131	15993	16284
+M443	dadp[c]	dADP	C10H12N5O9P2	HMDB01508	C00206	188966	16174
+M459	adrncoa[x]	adrenyl coenzyme A	C43H66N7O17P3S		C16170		NA
+M461	adrncrn[c]	Adrenyl carnitine	C29H49NO4	HMDB06321		53477825	NA
+M466	adrn[e]	adrenic acid	C22H35O2	HMDB02226	C16527	5497181	53487
+M490	ksii_core4_pre2[g]	keratan sulfate II boisynthesis, precursor 2	C47H76N4O33X				NA
+M502	ksi_pre1[g]	keratan sulfate I biosynthesis, precursor 1	C79H129N5O57X				NA
+M524	Rtotal2[c]	R total 2 position	CO2FULLR2				NA
+M525	agm[m]	agmatinium(2+)	C5H16N4	HMDB01432	C00179	199	17431
+M530	pa_hs[c]	phosphatidate(2-)	C3H5O4PFULLRCO2FULLR2CO2				57739
+M547	ahcys[n]	S-Adenosyl-L-homocysteine	C14H20N6O5S	HMDB00939	C00021	439155	16680
+M550	n2m2mn[l]	de-Fuc, reducing GlcNAc removed, de-Sia, de-Gal form of PA6 (w/o peptide linkage)	C42H71N3O31				NA
+M555	ak2lgchol_hs[e]	1-alkyl 2-lysoglycerol 3-phosphocholine	C10H21O5NPFULLR		C04317		NA
+M556	ak2lgchol_hs[c]	1-alkyl 2-lysoglycerol 3-phosphocholine	C10H21O5NPFULLR		C04317		NA
+M558	mal_L[c]	(S)-malate(2-)	C4H4O5	HMDB00156	C00149	222656	30797
+M559	mal_L[m]	(S)-malate(2-)	C4H4O5	HMDB00156	C00149	222656	30797
+M582	ser_L[c]	L-serine	C3H7NO3	HMDB00187	C00065	5951	17115
+M588	fald[c]	formaldehyde	CH2O	HMDB01426	C00067	712	16842
+M603	dhap[c]	Dihydroxyacetone phosphate	C3H5O6P	HMDB01473	C00111	668	16108
+M611	dhcholestancoa[x]	3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA	C48H76N7O19P3S	HMDB02159	C04644	440420	15494
+M612	dhcholestancoa[r]	3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA	C48H76N7O19P3S	HMDB02159	C04644	440420	15494
+M616	cholcoar[x]	(25R)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-oyl-CoA(4-)	C48H76N7O20P3S	HMDB02178	C05448	15942889	37642
+M617	cholcoar[r]	(25R)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-oyl-CoA(4-)	C48H76N7O20P3S	HMDB02178	C05448	15942889	37642
+M626	amp[x]	AMP	C10H12N5O7P	HMDB00045	C00020	6083	16027
+M627	amp[r]	AMP	C10H12N5O7P	HMDB00045	C00020	6083	16027
+M629	glc_D[e]	D-glucose	C6H12O6	HMDB00122	C00031	5793	4167
+M667	arachcoa[x]	arachidyl coenzyme A	C41H70N7O17P3S	HMDB04258	C02041	16061151	15527
+M668	arachcrn[c]	arachidyl carnitine	C27H53NO4	HMDB06460		53477833	NA
+M672	arachdcoa[x]	arachidonoyl-CoA(4-)	C41H62N7O17P3S	HMDB06523	C02249	16061152	57368
+M673	arachd[e]	arachidonate	C20H31O2	HMDB01043	C00219	444899	15843
+M681	urea[c]	Urea	CH4N2O	HMDB00294	C00086	1176	16199
+M687	so4[l]	sulfate	O4S	HMDB01448	C00059	1118	16189
+M689	Rtotal[c]	R total	CO2FULLR				NA
+M691	Rtotal3[c]	R total 3 position	CO2FULLR3				NA
+M692	pmtcoa[c]	Palmitoyl-CoA (n-C16:0CoA)	C37H62N7O17P3S	HMDB01338	C00154	15667	15525
+M695	tdcoa[c]	Tetradecanoyl-CoA (n-C14:0CoA)	C35H58N7O17P3S	HMDB01521	C02593	25244582	57385
+M706	stcoa[c]	Stearoyl-CoA (n-C18:0CoA)	C39H66N7O17P3S	HMDB01114	C00412	439229	15541
+M722	hdd2coa[c]	trans-Hexadec-2-enoyl-CoA	C37H60N7O17P3S	HMDB03945	C05272	46173176	61526
+M725	pmtcoa[m]	Palmitoyl-CoA (n-C16:0CoA)	C37H62N7O17P3S	HMDB01338	C00154	15667	15525
+M733	dhdascb[c]	dehydroascorbide(1-)	C6H6O6	HMDB01264	C00425	5780	17242
+M739	ala_B[c]	beta-alanine	C3H7NO2	HMDB00056	C00099		16958
+M743	k[c]	potassium	K	HMDB00586	C00238	813	29103
+M750	adp[r]	ADP	C10H12N5O10P2	HMDB01341	C00008	6022	16761
+M758	avite1[e]	(+)-alpha-tocopherol	C29H50O2	HMDB01893	C02477	14985	18145
+M806	succ[c]	Succinate	C4H4O4	HMDB00254	C00042	1110	15741
+M811	glc_D[c]	D-glucose	C6H12O6	HMDB00122	C00031	5793	4167
+M831	biliverd[c]	biliverdin(2-)	C33H32N4O6	HMDB01008	C00500		17033
+M832	bilirub[c]	bilirubin(2-)	C33H34N4O6	HMDB00054	C00486		16990
+M834	bilirub[r]	bilirubin(2-)	C33H34N4O6	HMDB00054	C00486		16990
+M862	pmtcrn[c]	L-palmitoylcarnitine	C23H45NO4	HMDB00222	C02990	11953816	17490
+M864	hdcecrn[c]	Hexadecenoyl carnitine	C23H43NO4	HMDB00222	C02990	11953816	17490
+M865	hdd2crn[c]	trans-Hexadec-2-enoyl carnitine	C23H43NO4	HMDB06317		53477817	NA
+M869	hdd2coa[m]	trans-Hexadec-2-enoyl-CoA	C37H60N7O17P3S	HMDB03945	C05272	46173176	61526
+M870	stcrn[c]	stearoylcarnitine	C25H49NO4	HMDB00848		6426855	NA
+M873	odecrn[c]	octadecenoyl carnitine	C25H47NO4				NA
+M876	arachdcrn[c]	C20:4 carnitine	C27H45NO4				NA
+M879	c226coa[x]	cervonyl coenzyme A	C43H62N7O17P3S		C16169		NA
+M880	c226crn[c]	cervonyl carnitine	C29H45NO4	HMDB06510			NA
+M886	3h26dm5coa[x]	3-Hydroxy-2,6-dimethyl-5-methylene-heptanoyl-CoA	C31H48N7O18P3S	HMDB04601	C11947	9543313	NA
+M889	co2[r]	carbon dioxide	CO2	HMDB01967	C00011	280	16526
+M893	zymst[r]	zymosterol	C27H44O	HMDB06271	C05437	92746	18252
+M894	ca2[c]	calcium(2+)	Ca	HMDB00464	C00076		29108
+M895	ca2[e]	calcium(2+)	Ca	HMDB00464	C00076		29108
+M901	h2o2[m]	Hydrogen peroxide	H2O2	HMDB03125	C00027	784	16240
+M912	pi[r]	hydrogenphosphate	HO4P	HMDB00973	C00009	1004	43474
+M913	ppi[r]	Diphosphate	HO7P2	HMDB00250	C00013	1023	29888
+M922	inost[c]	myo-inositol	C6H12O6	HMDB00211	C00137	892	17268
+M925	ctp[c]	CTP	C9H12N3O14P3	HMDB00082	C00063	6176	17677
+M927	pa_hs[m]	phosphatidate(2-)	C3H5O4PFULLRCO2FULLR2CO2				57739
+M928	dag_hs[c]	diglyceride	C3H6OFULLRCO2FULLR2CO2				NA
+M930	pe_hs[c]	phosphatidylethanolamine	C5H12NO4PFULLRCO2FULLR2CO2				16038
+M931	crm_hs[c]	N-acylsphingosine	C18H36NO2FULLRCO				52639
+M940	chol[c]	Choline	C5H14NO	HMDB00097	C00114	305	15354
+M944	chol[m]	Choline	C5H14NO	HMDB00097	C00114	305	15354
+M949	chol[g]	Choline	C5H14NO	HMDB00097	C00114	305	15354
+M950	chol[r]	Choline	C5H14NO	HMDB00097	C00114	305	15354
+M951	chsterol[c]	cholesterol	C27H46O	HMDB00067	C00187	5997	16113
+M953	chsterol[e]	cholesterol	C27H46O	HMDB00067	C00187	5997	16113
+M977	clpndcoa[x]	clupanodonyl CoA	C43H64N7O17P3S	HMDB06267	C16166	53477812	NA
+M978	clpndcrn[c]	clupanodonyl carnitine	C29H47NO4	HMDB06496			NA
+M985	cmp[g]	CMP	C9H12N3O8P	HMDB00095	C00055	6131	17361
+M1001	q10[m]	ubiquinone-10	C59H90O4	HMDB01072	C11378	5281915	46245
+M1012	co[c]	carbon monoxide	CO	HMDB01361	C00237	281	17245
+M1025	pcrn[c]	propionyl-carnitine	C10H19NO4	HMDB00824	C03017	107738	28867
+M1039	crvnc[e]	cervonic acid, C22:6 n-3	C22H31O2	HMDB02183	C06429		28125
+M1053	dmnoncoa[x]	4,8 dimethylnonanoyl-CoA	C32H54N7O17P3S	HMDB11604			NA
+M1054	ppcoa[x]	Propanoyl-CoA	C24H36N7O17P3S	HMDB01275	C00100	439164	57392
+M1070	utp[c]	UTP	C9H11N2O15P3	HMDB00285	C00075	6133	15713
+M1076	q10h2[m]	Ubiquinol-10	C59H92O4	HMDB13111	C00390	9962735	64183
+M1098	dgtp[c]	dGTP	C10H12N5O13P3	HMDB01440	C00286	65103	16497
+M1099	dgdp[c]	dGDP	C10H12N5O10P2	HMDB00960	C00361	439220	28862
+M1105	dcdp[c]	dCDP	C9H12N3O10P2	HMDB01245	C00705	150855	28846
+M1115	adp[n]	ADP	C10H12N5O10P2	HMDB01341	C00008	6022	16761
+M1127	dag_hs[e]	diglyceride	C3H6OFULLRCO2FULLR2CO2				NA
+M1135	dd2coa[m]	trans-Dodec-2-enoyl-CoA	C33H52N7O17P3S	HMDB03712	C03221	45266564	57330
+M1141	dcsptn1coa[x]	docosa-4,7,10,13,16-pentaenoyl coenzyme A	C43H64N7O17P3S	HMDB06513	C16173	23724650	NA
+M1142	dcsptn1crn[c]	docosa-4,7,10,13,16-pentaenoyl carnitine	C29H47NO4	HMDB06321			NA
+M1166	tag_hs[c]	triglyceride	C3H5FULLRCO2FULLR2CO2FULLR3CO2				17855
+M1184	fad[r]	Flavin adenine dinucleotide oxidized	C27H31N9O15P2	HMDB01248	C00016	643975	16238
+M1187	lthstrl[r]	5alpha-cholest-7-en-3beta-ol	C27H46O	HMDB01170	C01189	65728	17168
+M1192	fadh2[c]	Flavin adenine dinucleotide reduced	C27H33N9O15P2	HMDB01197	C01352	446013	17877
+M1205	cala[c]	N-carbamoyl-beta-alaninate	C4H7N2O3	HMDB00026	C02642		18261
+M1223	lac_D[c]	(R)-lactate	C3H5O3	HMDB01311	C00256	61503	42111
+M1225	dlnlcgcrn[c]	dihomo-gamma-linolenyl carnitine	C27H47NO4				NA
+M1228	dlnlcg[e]	dihomo-gamma-linolenic acid (n-6)	C20H33O2	HMDB02925	C03242	3011	53486
+M1264	ppi[x]	Diphosphate	HO7P2	HMDB00250	C00013	1023	29888
+M1279	dna5mtc[n]	DNA 5-methylcytosine	C11H19O8PR2		C02967		NA
+M1281	seahcys[n]	Se-Adenosylselenohomocysteine	C14H20N6O5Se	HMDB11117	C05692	16682731	NA
+M1284	dudp[c]	dUDP	C9H11N2O11P2	HMDB01000	C01346	145729	28850
+M1289	dttp[c]	dTTP	C10H13N2O14P3	HMDB01342	C00459	64968	18077
+M1340	g3p[c]	Glyceraldehyde 3-phosphate	C3H5O6P	HMDB01112	C00661	729	17138
+M1361	3hbcoa[x]	(S)-3-hydroxybutanoyl-CoA(4-)	C25H38N7O18P3S	HMDB01166	C03561	9543037	15453
+M1362	b2coa[x]	crotonoyl-CoA(4-)	C25H36N7O17P3S	HMDB02009	C00877	5280381	57332
+M1367	eicostetcrn[c]	Eicosatetranoyl carnitine	C27H45NO4				NA
+M1372	elaidcrn[c]	Elaidic carnitine	C25H47NO4	HMDB06464		6441392	NA
+M1375	elaid[e]	elaidate	C18H33O2	HMDB00573	C00712	445639	16196
+M1376	elaid[c]	elaidate	C18H33O2	HMDB00573	C00712	445639	16196
+M1446	fru[e]	D-Fructose	C6H12O6	HMDB00660	C02336	439709	28645
+M1460	fuc_L[e]	L-fucose	C6H12O5	HMDB00174	C01019	17106	2181
+M1475	glyc[e]	Glycerol	C3H8O3	HMDB00131	C00116	753	17754
+M1493	hdca[e]	Hexadecanoate (n-C16:0)	C16H31O2	HMDB00220	C00249	985	15756
+M1494	hdcea[e]	Hexadecenoate (n-C16:1)	C16H29O2	HMDB03229	C08362	445638	28716
+M1509	ksi_deg1[e]	keratan sulfate I, degradation product 1	C241H383N17O209S12X				NA
+M1521	lgnc[e]	lignocerate	C24H47O2	HMDB02003	C08320	11197	28866
+M1525	lnlc[e]	linoleate	C18H31O2	HMDB00673	C01595	5280450	17351
+M1526	lnlnca[e]	alpha-linolenate	C18H29O2	HMDB01388	C06427	5280934	27432
+M1527	lnlncg[e]	gamma-linolenate	C18H29O2	HMDB03073	C06426	5280933	28661
+M1528	lpchol_hs[e]	lysophosphatidylcholine	C8H19NO5PFULLRCO2				11230
+M1529	mag_hs[e]	monoacylglycerol 2	C3H7O2FULLR2CO2				NA
+M1530	malt[e]	Maltose	C12H22O11	HMDB00163	C00208	439186	17306
+M1548	nrvnc[e]	nervonate	C24H45O2	HMDB02368	C08323	5281120	44247
+M1554	ocdcea[e]	octadecenoate (n-C18:1)	C18H33O2	HMDB00207	C00712	5460221	30823
+M1560	pchol_hs[e]	Phosphatidylcholine	C8H18NO4PFULLRCO2FULLR2CO2				NA
+M1594	Rtotal[e]	R total	CO2FULLR				NA
+M1595	Rtotal2[e]	R total 2 position	CO2FULLR2				NA
+M1596	Rtotal3[e]	R total 3 position	CO2FULLR3				NA
+M1598	s2l2n2m2masn[e]	de-Fuc form of PA6	C84H135N6O61X				NA
+M1608	strdnc[e]	stearidonic acid C18:4, n-3	C18H27O2	HMDB06547	C16300	163841	32389
+M1639	ttdca[e]	tetradecanoate (n-C14:0)	C14H27O2	HMDB00806	C06424	11005	28875
+M1642	Tyr_ggn[e]	Tyr-194 of apo-glycogenin protein (primer for glycogen synthesis)	XOH				NA
+M1660	xolest2_hs[e]	cholesterol ester	C27H45FULLR2CO2				17002
+M1677	ttdca[c]	tetradecanoate (n-C14:0)	C14H27O2	HMDB00806	C06424	11005	28875
+M1681	hdca[c]	Hexadecanoate (n-C16:0)	C16H31O2	HMDB00220	C00249	985	15756
+M1683	hdcea[c]	Hexadecenoate (n-C16:1)	C16H29O2	HMDB03229	C08362	445638	28716
+M1702	pristcoa[c]	pristanoyl coa	C40H68N7O17P3S			25137904	51341
+M1705	phytcoa[c]	phytanoyl-CoA(4-)	C41H70N7O17P3S	HMDB01359	C02060	439640	15538
+M1706	lgnc[c]	lignocerate	C24H47O2	HMDB02003	C08320	11197	28866
+M1714	occoa[c]	Octanoyl-CoA (n-C8:0CoA)	C29H46N7O17P3S	HMDB01070	C01944	380	57386
+M1724	stcoa[x]	Stearoyl-CoA (n-C18:0CoA)	C39H66N7O17P3S	HMDB01114	C00412	439229	15541
+M1730	lnlncgcoa[x]	gamma-linolenoyl-CoA(4-)	C39H60N7O17P3S	HMDB06368	C03035	11966132	15508
+M1732	strdnccoa[x]	stearidonyl coenzyme A	C39H58N7O17P3S	HMDB06519	C16163	23724640	NA
+M1734	tmndnccoa[x]	timnodonyl coenzyme A	C41H60N7O17P3S	HMDB06514		52922050	NA
+M1735	lgnccoa[x]	lignocericyl coenzyme A	C45H78N7O17P3S	HMDB06526	C16529	53477849	NA
+M1737	odecoa[x]	Octadecenoyl-CoA (n-C18:1CoA)	C39H64N7O17P3S	HMDB01322	C00510	92160	15534
+M1743	dcacoa[c]	Decanoyl-CoA (n-C10:0CoA)	C31H50N7O17P3S	HMDB06404	C05274	440615	61430
+M1744	ddcacoa[c]	Dodecanoyl-CoA (n-C12:0CoA)	C33H54N7O17P3S	HMDB03571	C01832	165436	15521
+M1747	glyald[c]	D-Glyceraldehyde	C3H6O3	HMDB01051	C02154	79014	17378
+M1749	gcald[c]	glycolaldehyde	C2H4O2	HMDB03344	C00266	756	17071
+M1751	f6p[c]	D-Fructose 6-phosphate	C6H11O9P	HMDB00124	C00085	69507	15946
+M1752	f26bp[c]	beta-D-fructofuranose 2,6-bisphosphate(4-)	C6H10O12P2	HMDB01047	C00665	105021	28602
+M1757	fe2[c]	Fe2+	Fe	HMDB00692	C14818	27284	29033
+M1761	fol[c]	Folate	C19H18N7O6	HMDB00121	C00504	6037	27470
+M1765	for[n]	Formate	CH1O2	HMDB00142	C00058	284	30751
+M1771	fru[c]	D-Fructose	C6H12O6	HMDB00660	C02336	439709	28645
+M1786	fuc_L[l]	L-fucose	C6H12O5	HMDB00174	C01019	17106	2181
+M1787	ksi_deg1[l]	keratan sulfate I, degradation product 1	C241H383N17O209S12X				NA
+M1789	s2l2n2m2masn[l]	de-Fuc form of PA6	C84H135N6O61X				NA
+M1807	fum[m]	Fumarate	C4H2O4	HMDB00134	C00122	444972	18012
+M1809	so4[c]	sulfate	O4S	HMDB01448	C00059	1118	16189
+M1811	tsul[c]	thiosulfate(2-)	O3S2	HMDB00257	C05529	1084	16094
+M1812	acngalacglcgalgluside_hs[g]	(Gal)3 (Glc)1 (GlcNAc)1 (Cer)1	C55H95N3O30FULLRCO				NA
+M1839	ksii_core2_pre1[g]	keratan sulfate II biosynthesis, precursor 1	C33H53N3O23X				NA
+M1860	g6p[c]	D-Glucose 6-phosphate	C6H11O9P	HMDB01401	C00092	5958	4170
+M1871	gal[l]	D-Galactose	C6H12O6	HMDB00143	C00984	439357	28061
+M1872	ksi_deg27[l]	keratan sulfate I, degradation product 27	C104H169N7O88S4				NA
+M1874	ksi_deg30[l]	keratan sulfate I, degradation product 30	C90H147N6O75S3				NA
+M1876	ksi_deg33[l]	keratan sulfate I, degradation product 33	C76H125N5O62S2				NA
+M1878	ksi_deg36[l]	keratan sulfate I, degradation product 36	C62H103N4O49S1				NA
+M1880	ksi_deg39[l]	keratan sulfate I, degradation product 39	C48H81N3O36				NA
+M1882	ksi_deg41[l]	keratan sulfate I, degradation product 41	C34H58N2O26				NA
+M1883	ksii_core2_deg2[l]	keratan sulfate II (core 2-linked), degradation product 2	C70H114N5O56S2X				NA
+M1884	ksii_core2_deg3[l]	keratan sulfate II (core 2-linked), degradation product 3	C58H94N5O46S2X				NA
+M1886	ksii_core2_deg6[l]	keratan sulfate II (core 2-linked), degradation product 6	C44H72N4O33SX				NA
+M1888	ksii_core2_deg9[l]	keratan sulfate II (core 2-linked), degradation product 9	C30H50N3O20X				NA
+M1889	core6[l]	Core 6	C16H27N2O10X				NA
+M1890	l2n2m2mn[l]	de-Fuc, reducing GlcNAc removed, de-Sia form of PA6 (w/o peptide linkage)	C54H91N3O41				NA
+M1891	ksii_core4_deg2[l]	keratan sulfate II (core 4-linked), degradation product 2	C78H127N6O61S2X				NA
+M1892	ksii_core4_deg3[l]	keratan sulfate II (core 4-linked), degradation product 3	C66H107N6O51S2X				NA
+M1893	ksi_deg5[l]	keratan sulfate I, degradation product 5	C222H356N15O194S11				NA
+M1894	ksi_deg6[l]	keratan sulfate I, degradation product 6	C210H336N15O184S11				NA
+M1896	ksi_deg9[l]	keratan sulfate I, degradation product 9	C188H301N13O166S10				NA
+M1898	ksi_deg12[l]	keratan sulfate I, degradation product 12	C174H279N12O153S9				NA
+M1900	ksi_deg15[l]	keratan sulfate I, degradation product 15	C160H257N11O140S8				NA
+M1902	ksi_deg18[l]	keratan sulfate I, degradation product 18	C146H235N10O127S7				NA
+M1904	ksi_deg21[l]	keratan sulfate I, degradation product 21	C132H213N9O114S6				NA
+M1906	ksi_deg24[l]	keratan sulfate I, degradation product 24	C118H191N8O101S5				NA
+M1915	gal[c]	D-Galactose	C6H12O6	HMDB00143	C00984	439357	28061
+M1944	gluside_hs[l]	D-glucosyl-N-acylsphingosine	C24H46NO7FULLRCO				18368
+M1945	glc_D[l]	D-glucose	C6H12O6	HMDB00122	C00031	5793	4167
+M1948	glyclt[c]	glycolate	C2H3O3	HMDB00115	C00160	757	17497
+M1983	glcr[c]	D-glucarate(2-)	C6H8O8	HMDB00663	C00818	33037	16002
+M2069	g3pc[c]	sn-Glycero-3-phosphocholine	C8H20NO6P	HMDB00086	C00670	439285	16870
+M2095	h2o2[n]	Hydrogen peroxide	H2O2	HMDB03125	C00027	784	16240
+M2108	hexccrn[c]	hexacosanoyl carnitine	C33H65NO4	HMDB06347		53477828	NA
+M2112	his_L[c]	L-histidine	C6H9N3O2	HMDB00177	C00135	6274	15971
+M2124	pheme[c]	Protoheme	C34H30FeN4O4	HMDB03178	C00032		17627
+M2127	hpdcacrn[c]	heptadecanoyl carnitine	C24H47NO4	HMDB06210		53477803	NA
+M2146	cholcoaone[x]	3alpha,7alpha,12alpha-trihydroxy-24-oxo-5beta-cholestan-26-oyl-CoA(4-)	C48H74N7O21P3S	HMDB06891	C05467	25195379	27379
+M2156	xol7a[r]	20-hydroxycholesterol	C27H46O2		C05500	121935	1296
+M2167	taur[c]	Taurine	C2H7NO3S	HMDB00251	C00245	1123	15891
+M2208	lac_L[c]	(S)-lactate	C3H5O3	HMDB00190	C00186	107689	422
+M2225	lgnccrn[c]	lignoceryl carnitine	C31H61NO4				NA
+M2234	lneldccrn[c]	Linoelaidyl carnitine	C25H45NO4	HMDB06461		53477834	NA
+M2236	lnlccrn[c]	Linoleyl carnitine	C25H45NO4	HMDB06469		6450015	NA
+M2238	lnlncacrn[c]	alpha-linolenyl carnitine	C25H43NO4	HMDB06319		53477821	NA
+M2240	lnlncgcrn[c]	gamma-linolenyl carnitine	C25H43NO4	HMDB06318		53477819	NA
+M2246	lpchol_hs[c]	lysophosphatidylcholine	C8H19NO5PFULLRCO2				11230
+M2248	mag_hs[c]	monoacylglycerol 2	C3H7O2FULLR2CO2				NA
+M2260	Nmelys[n]	Histone N6-methyl-L-lysine	CXH4		C03702		NA
+M2261	Ndmelys[n]	Protein N6,N6-dimethyl-L-lysine	C2H7X		C05545		NA
+M2262	Ntmelys[n]	Protein N6,N6,N6-trimethyl-L-lysine	C3H10X		C05546		NA
+M2269	n3m2masn[g]	((N-acetyl-D-glucosaminyl)3-(alpha-D-mannosyl)2-beta-D-mannosyl-diacetylchitobiosyl)-L-asparagine (protein)	C58H96N5O40X				NA
+M2277	malt[c]	Maltose	C12H22O11	HMDB00163	C00208	439186	17306
+M2278	malt[l]	Maltose	C12H22O11	HMDB00163	C00208	439186	17306
+M2282	malcoa[x]	Malonyl-CoA	C24H33N7O19P3S	HMDB01175	C00083	10663	15531
+M2285	malACP[c]	Malonyl-[acyl-carrier protein]	C14H22N2O10PRS				58107
+M2304	mi134p[c]	1D-myo-inositol 1,3,4-trisphosphate(6-)	C6H9O15P3	HMDB01143	C01243	439455	18228
+M2309	mi1p_D[c]	1D-myo-inositol 1-phosphate(2-)	C6H11O9P	HMDB02985	C01177		18297
+M2312	mi145p[c]	1D-myo-inositol 1,4,5-trisphosphate(6-)	C6H9O15P3	HMDB01498	C01245	439456	16595
+M2313	mi14p[c]	(1R,2R,3R,4R,5R,6S)-2,3,5,6-tetrahydroxy-4-(phosphonatooxy)cyclohexyl phosphate	C6H10O12P2	HMDB00968	C01220		17816
+M2358	cs_c_deg1[l]	chondroitin sulfate C (GalNAc6S-GlcA), degradation product 1	C45H68N2O43S2				NA
+M2359	cs_c_deg4[l]	chondroitin sulfate C (GalNAc6S-GlcA), degradation product 4	C31H49NO29S				NA
+M2360	cs_d_deg1[l]	chondroitin sulfate D (GlcNAc6S-GlcA2S), degradation product 1	C45H66N2O49S4				NA
+M2362	cs_d_deg5[l]	chondroitin sulfate D (GlcNAc6S-GlcA2S), degradation product 5	C31H48NO32S2				NA
+M2364	cs_e_deg2[l]	chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 2	C45H66N2O49S4				NA
+M2365	cs_e_deg6[l]	chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 6	C31H48NO32S2				NA
+M2375	carn[c]	carnosine	C9H14N4O3	HMDB00033	C00386	439224	15727
+M2387	nicrnt[c]	Nicotinate D-ribonucleotide	C11H12NO9P	HMDB01132	C01185	53477721	57502
+M2402	nrvnccrn[c]	Nervonyl carnitine	C31H59NO4				NA
+M2432	succ[m]	Succinate	C4H4O4	HMDB00254	C00042	1110	15741
+M2440	ptrc[c]	Putrescine	C4H14N2	HMDB01414	C00134	1045	17148
+M2468	pa_hs[r]	phosphatidate(2-)	C3H5O4PFULLRCO2FULLR2CO2				57739
+M2469	pa_hs[g]	phosphatidate(2-)	C3H5O4PFULLRCO2FULLR2CO2				57739
+M2470	pac[c]	phenylacetate	C8H7O2	HMDB00209	C07086	999	30745
+M2474	pail45p_hs[c]	phosphatidylinositol 4,5-bisphosphate	C9H14O15P3FULLRCO2FULLR2CO2				28910
+M2475	pail45p_hs[n]	phosphatidylinositol 4,5-bisphosphate	C9H14O15P3FULLRCO2FULLR2CO2				28910
+M2476	pail4p_hs[c]	1-phosphatidyl-1D-myo-inositol 4-phosphate(3-)	C9H15O12P2FULLRCO2FULLR2CO2				58178
+M2493	pe_hs[m]	phosphatidylethanolamine	C5H12NO4PFULLRCO2FULLR2CO2				16038
+M2497	pristcoa[x]	pristanoyl coa	C40H68N7O17P3S			25137904	51341
+M2499	prostgh2[c]	prostaglandin H2(1-)	C20H31O5	HMDB01381	C00427	445049	15554
+M2501	prostgh2[r]	prostaglandin H2(1-)	C20H31O5	HMDB01381	C00427	445049	15554
+M2514	phytcoa[x]	phytanoyl-CoA(4-)	C41H70N7O17P3S	HMDB01359	C02060	439640	15538
+M2517	pail345p_hs[c]	1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate(7-)	C9H13O18P4FULLRCO2FULLR2CO2				57836
+M2519	pi[n]	hydrogenphosphate	HO4P	HMDB00973	C00009	1004	43474
+M2520	pail34p_hs[c]	1-phosphatidyl-1D-myo-inositol 3,4-bisphosphate(5-)	C9H14O15P3FULLRCO2FULLR2CO2				57658
+M2523	pail3p_hs[c]	1-phosphatidyl-1D-myo-inositol 3-phosphate(3-)	C9H15O12P2FULLRCO2FULLR2CO2				58088
+M2524	pail35p_hs[c]	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate(5-)	C9H14O15P3FULLRCO2FULLR2CO2				57923
+M2556	4hpro_LT[r]	trans-4-hydroxy-L-proline	C5H9NO3	HMDB00725	C01157	5810	18095
+M2557	succ[r]	Succinate	C4H4O4	HMDB00254	C00042	1110	15741
+M2565	3hpcoa[m]	3-hydroxypropanoyl-CoA(4-)	C24H36N7O18P3S	HMDB06807	C05668	440753	27762
+M2567	3hpcoa[x]	3-hydroxypropanoyl-CoA(4-)	C24H36N7O18P3S	HMDB06807	C05668	440753	27762
+M2568	ps_hs[c]	phosphatidylserine	C6H11NO6PFULLRCO2FULLR2CO2				18303
+M2571	ps_hs[m]	phosphatidylserine	C6H11NO6PFULLRCO2FULLR2CO2				18303
+M2573	ptdcacrn[c]	pendtadenoyl carnitine	C22H43NO4				NA
+M2603	trdrd[c]	Reduced thioredoxin	XH2		C00342		15967
+M2604	trdox[c]	Oxidized thioredoxin	X		C00343		18191
+M2606	Rtotal2crn[c]	R total 2 carnitine	CO2FULLR2C7H14NO2				NA
+M2608	Rtotal3crn[c]	R total 3 carnitine	CO2FULLR3C7H14NO2				NA
+M2610	Rtotalcrn[c]	R total carnitine	CO2FULLRC7H14NO2				NA
+M2624	ksi_deg4[l]	keratan sulfate I, degradation product 4	C222H355N15O197S12				NA
+M2625	ksii_core2_deg1[l]	keratan sulfate II (core 2-linked), degradation product 1	C70H113N5O59S3X				NA
+M2626	ksii_core4_deg1[l]	keratan sulfate II (core 4-linked), degradation product 1	C78H126N6O64S3X				NA
+M2651	acngalgbside_hs[g]	sialyl galactosylgloboside	C61H105N3O35FULLRCO				NA
+M2653	sph1p[c]	(2S,3R)-2-azaniumyl-3-hydroxyoctadecyl phosphate	C18H39NO5P	HMDB01383	C01120	644260	16893
+M2665	sphs1p[c]	sphingosine 1-phosphate(1-)	C18H37NO5P	HMDB00277	C06124	5353956	37550
+M2673	gm1b_hs[g]	GM1b	C55H95N3O30FULLRCO				62370
+M2674	gd1a_hs[g]	N-acetylneuraminosyl-D-galactosyl-N-acetyl-D-galactosaminyl-(N-acetylneuraminosyl)-D-galactosyl-D-glucosylceramide dianion	C66H111N4O38FULLRCO				58397
+M2675	gt1b_hs[g]	GT1b	C77H127N5O46FULLRCO				28058
+M2678	strdnccrn[c]	stearidonyl carnitine	C25H41NO4	HMDB06463		53477835	NA
+M2687	e4p[c]	D-Erythrose 4-phosphate	C4H7O7P	HMDB01321	C00279	122357	48153
+M2699	tetpent3crn[c]	tetracosapentaenoyl carnitine	C31H51NO4				NA
+M2702	tetpent6crn[c]	tetracosapentaenoyl carnitine	C31H51NO4				NA
+M2705	tettet6crn[c]	Tetracosatetraenoyl carnitine	C31H53NO4				NA
+M2715	tmndnccrn[c]	Timnodonyl carnitine	C27H43NO4				NA
+M2720	trdrd[m]	Reduced thioredoxin	XH2		C00342		15967
+M2728	ttdcrn[c]	tetradecanoyl carnitine	C21H41NO4	HMDB05066		53477791	NA
+M2748	vacccrn[c]	Vaccenyl carnitine	C25H47NO4	HMDB06351		53477830	NA
+M2752	vitd3[c]	calciol	C27H44O	HMDB00876	C05443	10883523	28940
+M2768	xyl_D[c]	aldehydo-D-xylose	C5H10O5			644160	15936
+M2798	prpp[e]	5-Phospho-alpha-D-ribose 1-diphosphate	C5H8O14P3	HMDB00280	C00119	7339	17111
+M2811	HC01434[m]	oxalatosuccinate(3-)	C6H3O7	HMDB03974	C05379	972	7815
+M2832	HC01408[m]	3-Oxohexanoyl-CoA	C27H40N7O18P3S	HMDB03943	C05269	3082152	27648
+M2834	pmtcoa[r]	Palmitoyl-CoA (n-C16:0CoA)	C37H62N7O17P3S	HMDB01338	C00154	15667	15525
+M2835	HC00342[m]	cis-aconitate(3-)	C6H3O6			309	16383
+M2850	HC10859[r]	Malonyl-Carnitin					NA
+M2851	HC10859[c]	Malonyl-Carnitin					NA
+M2852	HC10859[m]	Malonyl-Carnitin					NA
+M2854	pmtcrn[r]	L-palmitoylcarnitine	C23H45NO4	HMDB00222	C02990	11953816	17490
+M2855	pmtcrn[x]	L-palmitoylcarnitine	C23H45NO4	HMDB00222	C02990	11953816	17490
+M2856	lnlccoa[r]	linoleic coenzyme A	C39H62N7O17P3S	HMDB01064	C02050	5280482	15530
+M2857	HC10855[r]	linoleic-Carnitine					NA
+M2859	lnlccoa[x]	linoleic coenzyme A	C39H62N7O17P3S	HMDB01064	C02050	5280482	15530
+M2860	HC10855[x]	linoleic-Carnitine					NA
+M2861	arachdcoa[r]	arachidonoyl-CoA(4-)	C41H62N7O17P3S	HMDB06523	C02249	16061152	57368
+M2862	arachdcrn[r]	C20:4 carnitine	C27H45NO4				NA
+M2863	arachdcrn[x]	C20:4 carnitine	C27H45NO4				NA
+M2864	HC10852[r]	palmitoleyl-CoA(4-)	C37H60N7O17P3S				61540
+M2865	HC10854[r]	palmitoleoyl-Carnitine					NA
+M2869	HC10854[m]	palmitoleoyl-Carnitine					NA
+M2880	pac[m]	phenylacetate	C8H7O2	HMDB00209	C07086	999	30745
+M2904	HC01415[m]	(2E)-Octenoyl-CoA	C29H44N7O17P3S	HMDB03949	C05276	46173358	62242
+M2905	3odcoa[m]	3-Oxodecanoyl-CoA	C31H48N7O18P3S	HMDB03939	C05265	440606	28528
+M2909	3otdcoa[m]	3-Oxotetradecanoyl-CoA	C35H56N7O18P3S	HMDB03935	C05261	11966197	28726
+M2918	HC01412[m]	trans-tetradec-2-enoyl-CoA(4-)	C35H56N7O17P3S				61405
+M2919	3ohdcoa[m]	3-oxopalmitoyl-CoA(4-)	C37H60N7O18P3S	HMDB06402	C05259	169621	15491
+M2921	dd2coa[x]	trans-Dodec-2-enoyl-CoA	C33H52N7O17P3S	HMDB03712	C03221	45266564	57330
+M2922	HC01401[x]	(S)-3-Hydroxydodecanoyl-CoA	C33H54N7O18P3S	HMDB03936	C05262	11966173	27668
+M2923	HC01223[m]	3-hydroxy-2-methylpropanoyl-CoA(4-)	C25H38N7O18P3S			45259165	15481
+M2924	HC01587[c]	Acetoacetyl-ACP			C05744		NA
+M2927	HC01255[c]	But-2-enoyl-ACP			C04246		NA
+M2932	HC01596[c]	3-Oxodecanoyl-ACP			C05753		NA
+M2933	HC01597[c]	(2E)-Decenoyl-ACP			C05754		NA
+M2935	HC01593[c]	3-Oxooctanoyl-ACP			C05750		NA
+M2936	HC01594[c]	(2E)-Octenoyl-ACP			C05751		NA
+M2938	HC01605[c]	3-Oxohexadecanoyl-ACP			C05762		NA
+M2939	HC01606[c]	(2E)-Hexadecenoyl-ACP			C05763		NA
+M2940	HC01602[c]	3-Oxotetradecanoyl-ACP			C05759		NA
+M2941	HC01603[c]	(2E)-Tetradecenoyl-ACP			C05760		NA
+M2943	HC01710[n]	2,5-Diamino-6-(5-triphosphoryl-3,4-trihydroxy-2-oxopentyl)- amino-4-oxopyrimidine					NA
+M2944	HC01601[c]	(2E)-Dodecenoyl-ACP			C05758		NA
+M2945	HC01397[m]	(S)-3-Hydroxyhexadecanoyl-CoA	C37H62N7O18P3S	HMDB03932	C05258	11966179	27402
+M2946	HC01397[x]	(S)-3-Hydroxyhexadecanoyl-CoA	C37H62N7O18P3S	HMDB03932	C05258	11966179	27402
+M2947	HC01399[m]	(S)-3-Hydroxytetradecanoyl-CoA	C35H58N7O18P3S	HMDB03934	C05260	11966177	27466
+M2948	HC01399[x]	(S)-3-Hydroxytetradecanoyl-CoA	C35H58N7O18P3S	HMDB03934	C05260	11966177	27466
+M2949	HC01412[x]	trans-tetradec-2-enoyl-CoA(4-)	C35H56N7O17P3S				61405
+M2950	3oddcoa[m]	3-Oxododecanoyl-CoA	C33H52N7O18P3S	HMDB03937	C05263	440604	27868
+M2953	HC01403[x]	(S)-Hydroxydecanoyl-CoA	C31H50N7O18P3S	HMDB03938	C05264	16061159	28325
+M2954	dc2coa[m]	trans-Dec-2-enoyl-CoA	C31H48N7O17P3S	HMDB03948	C05275	24883423	61406
+M2955	HC01414[x]	trans-dec-2-enoyl-CoA(4-)	C31H48N7O17P3S				61406
+M2956	HC01405[m]	(S)-Hydroxyoctanoyl-CoA	C29H46N7O18P3S	HMDB03940	C05266	11966216	28632
+M2957	HC01406[m]	3-Oxooctanoyl-CoA	C29H44N7O18P3S	HMDB03941	C05267	11966162	28264
+M2959	HC01407[m]	(S)-Hydroxyhexanoyl-CoA	C27H42N7O18P3S	HMDB03942	C05268	11966160	28276
+M2960	HC01410[m]	(2E)-Hexenoyl-CoA	C27H40N7O17P3S	HMDB03944	C05271	11966204	28706
+M2963	HC01459[x]	3alpha,7alpha,12alpha,24-Tetrahydroxy-5beta-cholestanoyl-CoA	C48H76N7O21P3S	HMDB06890	C05450	46224537	27458
+M2965	34dhoxmand[m]	3,4-Dihydroxymandelate	C8H7O5	HMDB01866	C05580	85782	27637
+M2967	homoval[m]	Homovanillate	C9H9O4	HMDB00118	C05582	1738	545959
+M2969	3mox4hoxm[m]	3-Methoxy-4-hydroxymandelate	C9H9O5	HMDB00291	C05584	1245	20106
+M2970	HC01589[c]	3-Oxohexanoyl-ACP			C05746		NA
+M2972	HC01591[c]	(2E)-Hexenoyl-ACP			C05748		NA
+M2976	HC01599[c]	3-Oxododecanoyl-ACP			C05756		NA
+M2979	HC01652[n]	2,5-Diaminopyrimidine nucleoside triphosphate	C9H14N5O14P3	HMDB06821	C05923	440841	929
+M2983	HC00001[c]	Albumin					NA
+M2989	HC00003[c]	Antitrypsin					NA
+M2992	HC00004[c]	ApoA1					NA
+M2995	inost[r]	myo-inositol	C6H12O6	HMDB00211	C00137	892	17268
+M2997	HC00319[m]	Malonate	C3H2O4	HMDB00691	C00383	867	30794
+M3017	HC01852[c]	Fibrinogen			C00393		NA
+M3023	HC01942[c]	Plasminogen					NA
+M3026	HC01943[c]	Prothrombin					NA
+M3042	HC01944[c]	ApoTransferin			C05780		NA
+M3045	HC00005[c]	ApoB100					NA
+M3050	HC00006[c]	ApoC1					NA
+M3051	HC00007[c]	ApoC2					NA
+M3052	HC00008[c]	ApoC3					NA
+M3053	HC00009[c]	ApoE					NA
+M3068	hdd2coa[r]	trans-Hexadec-2-enoyl-CoA	C37H60N7O17P3S	HMDB03945	C05272	46173176	61526
+M3070	stcoa[r]	Stearoyl-CoA (n-C18:0CoA)	C39H66N7O17P3S	HMDB01114	C00412	439229	15541
+M3072	odecoa[r]	Octadecenoyl-CoA (n-C18:1CoA)	C39H64N7O17P3S	HMDB01322	C00510	92160	15534
+M3075	lnlncgcoa[r]	gamma-linolenoyl-CoA(4-)	C39H60N7O17P3S	HMDB06368	C03035	11966132	15508
+M3098	HC02098[c]	3-Hydroxystearoyl-ACP			C16220		NA
+M3099	HC02099[c]	(2E)-Octadecenoyl-ACP			C16221		NA
+M3100	HC01988[c]	Stearoyl-ACP			C04088		NA
+M3134	HC10857[m]	(S)-3-hydroxyoleyleoyl-CoA					NA
+M3135	HC10858[m]	3-oxooleoyl-CoA					NA
+M3147	HC02154[e]	GM4-pool					NA
+M3149	HC02175[e]	caprate	C10H19O2	HMDB00511	C01571	2969	30813
+M3158	HC02172[c]	Zinc	Zn	HMDB01303	C00038	32051	29105
+M3198	oxa[m]	oxalate(2-)	C2O4	HMDB02329	C00209	971	16995
+M3215	CE2421[m]	(3S)-3-hydroxylinoleoyl-CoA	C39H62N7O18P3S	HMDB12477		53481430	NA
+M3216	CE0713[m]	3-oxolinoleoyl-CoA	C39H60N7O18P3S				NA
+M3217	CE2421[x]	(3S)-3-hydroxylinoleoyl-CoA	C39H62N7O18P3S	HMDB12477		53481430	NA
+M3218	CE0713[x]	3-oxolinoleoyl-CoA	C39H60N7O18P3S				NA
+M3251	co2[l]	carbon dioxide	CO2	HMDB01967	C00011	280	16526
+M3252	3ohodcoa[l]	3-Oxooctadecanoyl-CoA	C39H64N7O18P3S	HMDB06498	C16216	22833663	50571
+M3259	stcoa[n]	Stearoyl-CoA (n-C18:0CoA)	C39H66N7O17P3S	HMDB01114	C00412	439229	15541
+M3272	CE2011[c]	hypothiocyanite	CHNOS	HMDB12974		124985	NA
+M3275	CE2011[l]	hypothiocyanite	CHNOS	HMDB12974		124985	NA
+M3431	adp[g]	ADP	C10H12N5O10P2	HMDB01341	C00008	6022	16761
+M3432	pail45p_hs[m]	phosphatidylinositol 4,5-bisphosphate	C9H14O15P3FULLRCO2FULLR2CO2				28910
+M3438	CE2434[m]	trans,cis,cis-2,9,12-octadecatrienoyl-CoA	C39H60N7O17P3S				NA
+M3439	CE2434[x]	trans,cis,cis-2,9,12-octadecatrienoyl-CoA	C39H60N7O17P3S				NA
+M3441	CE2433[m]	trans,cis,cis-2,7,10-hexadecatrienoyl-CoA	C37H56N7O17P3S				NA
+M3443	CE2433[x]	trans,cis,cis-2,7,10-hexadecatrienoyl-CoA	C37H56N7O17P3S				NA
+M3445	CE2432[m]	trans-2-cis,cis-5,8-tetradecatrienoyl-CoA	C35H52N7O17P3S				NA
+M3447	CE2432[x]	trans-2-cis,cis-5,8-tetradecatrienoyl-CoA	C35H52N7O17P3S				NA
+M3449	CE2435[m]	trans,cis-deca-2,4-dienoyl-CoA	C31H46N7O17P3S				NA
+M3451	CE2435[x]	trans,cis-deca-2,4-dienoyl-CoA	C31H46N7O17P3S				NA
+M3452	C05279[m]	trans,cis-Lauro-2,6-dienoyl-CoA	C33H50N7O17P3S	HMDB11123	C05279	53480665	28387
+M3453	CE2420[m]	(3S)-3-hydroxydodec-cis-6-enoyl-CoA	C33H52N7O18P3S	HMDB12476		53481428	NA
+M3454	C05279[x]	trans,cis-Lauro-2,6-dienoyl-CoA	C33H50N7O17P3S	HMDB11123	C05279	53480665	28387
+M3455	CE2420[x]	(3S)-3-hydroxydodec-cis-6-enoyl-CoA	C33H52N7O18P3S	HMDB12476		53481428	NA
+M3456	CE2417[m]	3(S)-hydroxy-5Z,8Z-tetradecadienoyl-CoA	C35H54N7O18P3S				NA
+M3457	CE2417[x]	3(S)-hydroxy-5Z,8Z-tetradecadienoyl-CoA	C35H54N7O18P3S				NA
+M3458	CE2418[m]	(3S)-3-hydroxy-cis,cis-palmito-7,10-dienoyl-CoA	C37H58N7O18P3S	HMDB12473		53481423	NA
+M3459	CE2418[x]	(3S)-3-hydroxy-cis,cis-palmito-7,10-dienoyl-CoA	C37H58N7O18P3S	HMDB12473		53481423	NA
+M3462	CE2422[m]	3-oxo-cis,cis-7,10-hexadecadienoyl-CoA	C37H56N7O18P3S				NA
+M3463	CE2422[x]	3-oxo-cis,cis-7,10-hexadecadienoyl-CoA	C37H56N7O18P3S				NA
+M3466	CE2424[m]	3-oxo-cis,cis-5,8-tetradecadienoyl-CoA	C35H52N7O18P3S				NA
+M3467	CE2424[x]	3-oxo-cis,cis-5,8-tetradecadienoyl-CoA	C35H52N7O18P3S				NA
+M3470	CE0693[m]	3-oxolaur-6-cis-enoyl-CoA	C33H50N7O18P3S				NA
+M3471	CE0693[x]	3-oxolaur-6-cis-enoyl-CoA	C33H50N7O18P3S				NA
+M3661	CE5700[r]	12-hydroperoxyeicosatetraenoate glyceryl ester	C23H38O6				NA
+M3678	C04483[r]	deoxycholate	C24H39O4	HMDB00626	C04483	222528	28834
+M3752	CE5276[c]	dopamine o-quinone	C8H10NO2	HMDB12219	C17755	162602	NA
+M3842	CE4633[c]	hypochlorous acid	ClHO		C19697	24341	24757
+M3845	CE4633[l]	hypochlorous acid	ClHO		C19697	24341	24757
+M3848	CE4881[c]	nitryl chloride	ClNO2			13932711	NA
+M3851	CE4881[l]	nitryl chloride	ClNO2			13932711	NA
+M3927	CE5125[x]	(2S)-pristanoyl-CoA	C40H68N7O17P3S				NA
+M3928	CE5126[x]	(2R)-pristanoyl-CoA	C40H68N7O17P3S				NA
+M3967	CE0074[c]	alloxan	C4H2N2O4	HMDB02818		5781	730073
+M3976	CE2592[m]	(S)-3-hydroxypalmitoleoyl-CoA	C37H60N7O18P3S	HMDB12487		53481439	NA
+M3977	CE0853[m]	3-oxopalmitoleoyl-CoA	C37H58N7O18P3S	HMDB06402	C05259	440601	15491
+M3978	CE2592[x]	(S)-3-hydroxypalmitoleoyl-CoA	C37H60N7O18P3S	HMDB12487		53481439	NA
+M3979	CE0853[x]	3-oxopalmitoleoyl-CoA	C37H58N7O18P3S	HMDB06402	C05259	440601	15491
+M3982	CE1102[m]	cis-(3S)-hydroxytetradec-7-enoyl-CoA	C35H56N7O18P3S				NA
+M3983	CE0782[m]	3-oxomyrist-7-enoyl-CoA	C35H54N7O18P3S				NA
+M3984	CE1102[x]	cis-(3S)-hydroxytetradec-7-enoyl-CoA	C35H56N7O18P3S				NA
+M3985	CE0782[x]	3-oxomyrist-7-enoyl-CoA	C35H54N7O18P3S				NA
+M3988	CE2597[m]	3(S)-3-hydroxydodecen-(5Z)-oyl-CoA	C33H52N7O18P3S	HMDB12674		53481515	NA
+M3989	CE0692[m]	3-oxolaur-cis-5-enoyl-CoA	C33H50N7O18P3S				NA
+M3990	CE2597[x]	3(S)-3-hydroxydodecen-(5Z)-oyl-CoA	C33H52N7O18P3S	HMDB12674		53481515	NA
+M3991	CE0692[x]	3-oxolaur-cis-5-enoyl-CoA	C33H50N7O18P3S				NA
+M3996	CE0852[x]	palmitoleyl-CoA(4-)	C37H60N7O17P3S				61540
+M3997	CE2591[m]	trans,cis-hexadeca-2,9-dienoyl-CoA	C37H58N7O17P3S				NA
+M3998	CE2591[x]	trans,cis-hexadeca-2,9-dienoyl-CoA	C37H58N7O17P3S				NA
+M4000	CE2594[m]	trans,cis-myristo-2,7-dienoyl-CoA	C35H54N7O17P3S				NA
+M4002	CE2594[x]	trans,cis-myristo-2,7-dienoyl-CoA	C35H54N7O17P3S				NA
+M4004	CE0695[m]	cis-laur-5-enoyl-CoA	C33H52N7O17P3S				NA
+M4006	CE0695[x]	cis-laur-5-enoyl-CoA	C33H52N7O17P3S				NA
+M4008	pail45p_hs[g]	phosphatidylinositol 4,5-bisphosphate	C9H14O15P3FULLRCO2FULLR2CO2				28910
+M4009	pail45p_hs[r]	phosphatidylinositol 4,5-bisphosphate	C9H14O15P3FULLRCO2FULLR2CO2				28910
+M4010	CE5132[c]	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate(5-)	C11H14O19P3R2				57923
+M4011	CE5132[g]	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate(5-)	C11H14O19P3R2				57923
+M4012	CE5132[n]	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate(5-)	C11H14O19P3R2				57923
+M4013	CE5132[r]	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate(5-)	C11H14O19P3R2				57923
+M4020	CE4795[m]	2-trans-cis,cis,cis,cis-4,8,11,14-eicosapentaenoyl-CoA	C41H60N7O17P3S				NA
+M4021	CE4795[x]	2-trans-cis,cis,cis,cis-4,8,11,14-eicosapentaenoyl-CoA	C41H60N7O17P3S				NA
+M4023	CE4791[x]	3(S)-hydroxy-dihomo-gama-linolenoyl-CoA	C41H64N7O18P3S				NA
+M4024	CE4793[x]	3-oxo-dihomo-gama-linolenoyl-CoA	C41H62N7O18P3S				NA
+M4025	CE2439[x]	3-oxo-6Z,9Z,12Z-octadecatrienoyl-CoA	C39H58N7O18P3S				NA
+M4027	CE2437[x]	2E,6Z,9Z,12Z-octadecatetraenoyl-CoA	C39H58N7O17P3S				NA
+M4028	CE2438[x]	3(S)-hydroxy-6Z,9Z,12Z-octadecatrienoyl-CoA	C39H60N7O18P3S				NA
+M4031	CE2441[x]	2E,4Z,7Z,10Z-hexadecatetraenoyl-CoA	C37H54N7O17P3S				NA
+M4032	CE5115[m]	trans-3-cis-5,8,11,14-eicosapentaenoyl-CoA	C41H60N7O17P3S				NA
+M4033	CE5115[x]	trans-3-cis-5,8,11,14-eicosapentaenoyl-CoA	C41H60N7O17P3S				NA
+M4034	CE5116[x]	trans-3-cis-8,11,14-eicosatetraenoyl-CoA	C41H62N7O17P3S				NA
+M4035	CE5117[m]	(3E,5Z,8Z)-tetradecatrienoyl-CoA	C35H52N7O17P3S	HMDB12472		53481421	NA
+M4037	CE5119[m]	trans-3-cis-8-tetradecadienoyl-CoA	C35H54N7O17P3S				NA
+M4039	CE4790[m]	(3S)-3-hydroxy-cis-8-tetradecenoyl-CoA	C35H56N7O18P3S	HMDB12474		53481425	NA
+M4040	CE4792[m]	3-oxo-cis-8-tetradecenoyl-CoA	C35H54N7O18P3S				NA
+M4089	CE5122[x]	3(S)-phytanoyl-CoA	C41H70N7O17P3S				NA
+M4098	CE2038[x]	trans-2,3-dehydropristanoyl-CoA	C40H66N7O17P3S			56927963	63803
+M4099	CE5934[x]	3(R)-hydroxy-pristanoyl-CoA	C40H68N7O18P3S				NA
+M4100	C07297[x]	3-oxopristanoyl-CoA(4-)	C40H66N7O18P3S	HMDB02057	C07297	441253	15371
+M4104	CE5938[x]	(4R,8R,12R)-trimethyl-2E-tridecenoyl-CoA	C37H60N7O17P3S	HMDB12480		53481434	NA
+M4105	CE5940[x]	3(R)-hydroxy-(4R,8R,12R)-trimethyl-tridecanoyl-CoA	C37H62N7O18P3S				NA
+M4106	CE5939[x]	3-oxo-(4R,8R,12R)-trimethyl-tridecanoyl-CoA	C37H60N7O18P3S				NA
+M4107	CE5941[x]	(2S,6R,10R)-trimethyl-2E-hendecenoyl-CoA	C35H56N7O17P3S	HMDB12470		53481417	NA
+M4108	CE5942[x]	3-oxo-(2S,6R,10R)-trimethyl-hendecanoyl-CoA	C35H56N7O18P3S				NA
+M4110	CE5943[x]	3(R)-hydroxy-(2S,6R,10)-trimethyl-hendecanoyl-CoA	C35H58N7O18P3S				NA
+M4112	CE5276[l]	dopamine o-quinone	C8H10NO2	HMDB12219	C17755	162602	NA
+M4133	lnlncacoa[r]	alpha-Linolenoyl-CoA	C39H60N7O17P3S	HMDB06290	C16162	53477815	51985
+M4140	CE4813[r]	eicosa-5,8,11,14,17-all-cis-pentaenoyl-CoA	C41H60N7O17P3S				NA
+M4161	CE4826[x]	3-oxo-all-cis-6,9,12,15,18,21-tetracosahexaenoyl-CoA	C45H64N7O18P3S				NA
+M4163	CE4828[x]	trans-2-all-cis-6,9,12,15,18,21-tetracosaheptaenoyl-CoA	C45H64N7O17P3S	HMDB06260	C16374	53477810	NA
+M4164	CE4825[x]	(3S)-hydroxy-tetracosa-6,9,12,15,18,21-all-cis-hexaenoyl-CoA	C45H66N7O18P3S	HMDB12479		53481432	NA
+M4173	CE4823[r]	tetracosa-6,9,12,15,18,21-all-cis-hexaenoyl-CoA	C45H66N7O17P3S				NA
+M4192	CE4832[x]	3(S)-hydroxy-tetracosa-6,9,12,15,18-all-cis-pentaenoyl-CoA	C45H68N7O18P3S				NA
+M4193	CE4820[x]	3-oxo-all-cis-6,9,12,15,18-tetracosapentaenoyl-CoA	C45H66N7O18P3S				NA
+M4195	CE4838[x]	trans-2-all-cis-6,9,12,15,18-tetracosahexaenoyl-CoA	C45H66N7O17P3S				NA
+M4200	CE4836[r]	tetracosa-6,9,12,15,18-all-cis-pentaenoyl-CoA	C45H68N7O17P3S				NA
+M4231	CE4801[m]	3(S)-hydroxy-4(R),8-dimethyl-nonanoyl-CoA	C32H52N7O18P3S				NA
+M4232	CE4803[m]	3-oxo-4(R),8-dimethyl-nonanoyl-CoA	C32H50N7O18P3S				NA
+M4233	CE4800[m]	3(S)-hydroxy-2(S),6-dimethyl-heptanoyl-CoA	C30H48N7O18P3S				NA
+M4234	CE4796[m]	3-oxo-(2S)-methylisocapryloyl-CoA	C30H46N7O18P3S				NA
+M4235	CE4802[m]	3(S)-hydroxy-4-methyl-pentanoyl-CoA	C27H42N7O18P3S				NA
+M4236	CE4804[m]	3-oxo-4-methyl-pentanoyl-CoA	C27H40N7O18P3S				NA
+M4293	cholcoads[m]	3alpha,7alpha,12alpha-Trihydroxy-5beta-cholest-24-enoyl-CoA	C48H74N7O20P3S	HMDB06889	C05460	5280797	27505
+M4294	CE5168[m]	24(R),25(R)-varanoyl-CoA	C48H76N7O21P3S				NA
+M4295	CE5168[x]	24(R),25(R)-varanoyl-CoA	C48H76N7O21P3S				NA
+M4298	CE5169[m]	24-oxo-25(R)-trihydroxycoprostanoyl-CoA	C48H74N7O21P3S	HMDB06891	C05467	440690	27379
+M4299	CE5169[x]	24-oxo-25(R)-trihydroxycoprostanoyl-CoA	C48H74N7O21P3S	HMDB06891	C05467	440690	27379
+M4330	inost[g]	myo-inositol	C6H12O6	HMDB00211	C00137	892	17268
+M4341	ser_L[g]	L-serine	C3H7NO3	HMDB00187	C00065	5951	17115
+M4342	ser_L[r]	L-serine	C3H7NO3	HMDB00187	C00065	5951	17115
+M4360	CE5347[m]	5-oxo-12(R)-hydroxy-eicosa-2E,8E,10E,14Z-tetraenoyl-CoA	C41H60N7O19P3S				NA
+M4361	CE5348[x]	5-oxo-12(R)-hydroxy-eicosa-8E,10E,14Z-trienoyl-CoA	C41H62N7O19P3S				NA
+M4362	CE5347[x]	5-oxo-12(R)-hydroxy-eicosa-2E,8E,10E,14Z-tetraenoyl-CoA	C41H60N7O19P3S				NA
+M4364	CE5348[r]	5-oxo-12(R)-hydroxy-eicosa-8E,10E,14Z-trienoyl-CoA	C41H62N7O19P3S				NA
+M4365	CE5345[m]	3,5-dioxo-12(R)-hydroxy-eicosa-8E,10E,14Z-trienoyl-CoA	C41H60N7O20P3S				NA
+M4367	CE5345[x]	3,5-dioxo-12(R)-hydroxy-eicosa-8E,10E,14Z-trienoyl-CoA	C41H60N7O20P3S				NA
+M4369	CE5344[m]	3(S),12(R)-dihydroxy-5-oxo-eicosa-8E,10E,14Z-trienoyl-CoA	C41H62N7O20P3S				NA
+M4370	CE5344[x]	3(S),12(R)-dihydroxy-5-oxo-eicosa-8E,10E,14Z-trienoyl-CoA	C41H62N7O20P3S				NA
+M4379	CE5329[m]	3(S),12(S)-dihydroxy-5-oxo-eicosa-8E,10E,14Z-trienoyl-CoA	C41H62N7O20P3S				NA
+M4380	CE5331[m]	3,5-dioxo-12(S)-hydroxy-eicosa-8E,10E,14Z-trienoyl-CoA	C41H60N7O20P3S				NA
+M4381	CE5329[x]	3(S),12(S)-dihydroxy-5-oxo-eicosa-8E,10E,14Z-trienoyl-CoA	C41H62N7O20P3S				NA
+M4382	CE5331[x]	3,5-dioxo-12(S)-hydroxy-eicosa-8E,10E,14Z-trienoyl-CoA	C41H60N7O20P3S				NA
+M4384	CE5341[m]	5-oxo-12(S)-hydroxy-eicosa-2E,8E,10E,14Z-tetraenoyl-CoA	C41H60N7O19P3S				NA
+M4385	CE5342[x]	5-oxo-12(S)-hydroxy-eicosa-8E,10E,14Z-trienoyl-CoA	C41H62N7O19P3S				NA
+M4386	CE5341[x]	5-oxo-12(S)-hydroxy-eicosa-2E,8E,10E,14Z-tetraenoyl-CoA	C41H60N7O19P3S				NA
+M4394	CE5342[r]	5-oxo-12(S)-hydroxy-eicosa-8E,10E,14Z-trienoyl-CoA	C41H62N7O19P3S				NA
+M4407	CE5309[m]	3-oxo-8(R)-hydroxy-hexadeca-6E,10Z-dienoate	C16H25O4				NA
+M4409	CE5314[m]	8(R)-hydroxy-hexadeca-2E,4E,6E,10Z-tetraenoate	C16H23O3				NA
+M4411	CE5306[m]	3(S),8(R)-dihydroxy-6E,10Z-hexadecadienoate	C16H27O4				NA
+M4412	CE5308[m]	3-oxo-6(R)-hydroxy-tetradec-8-cis-enoate	C14H23O4				NA
+M4414	CE5311[m]	6(R)-hydroxy-tetradeca-2E,4E,8Z-trienoate	C14H21O3				NA
+M4416	CE5305[m]	3(S),6(R)-dihydroxy-tetradec-8Z-enoate	C14H25O4				NA
+M4417	CE5321[m]	3-oxo-8(S)-hydroxy-hexadeca-6E,10Z-dienoate	C16H25O4				NA
+M4419	CE5323[m]	6(S)-hydroxy-tetradeca-2E,4E,8Z-trienoate	C14H21O3				NA
+M4421	CE5326[m]	8(S)-hydroxy-hexadeca-2E,4E,6E,10Z-tetraenoate	C16H23O3				NA
+M4423	CE5318[m]	3(S),8(S)-dihydroxy-6E,10Z-hexadecadienoate	C16H27O4				NA
+M4424	CE5320[m]	3-oxo-6(S)-hydroxy-tetradec-8Z-enoate	C14H23O4				NA
+M4427	CE5317[m]	3(S),6(S)-dihydroxy-tetradec-8Z-enoate	C14H25O4				NA
+M4468	CE5966[m]	3-oxo-5(S),12(R)-dihydroxy-eicosa-8-trans-6,14-cis-trienoyl-CoA	C41H62N7O20P3S				NA
+M4470	CE5966[x]	3-oxo-5(S),12(R)-dihydroxy-eicosa-8-trans-6,14-cis-trienoyl-CoA	C41H62N7O20P3S				NA
+M4477	CE5970[m]	5(S),12(R)-dihydroxy-eicosa-2,8-trans-6,14-cis-tetraenoyl-CoA	C41H62N7O19P3S				NA
+M4478	CE5969[x]	10,11-dihydro-LTB4-CoA	C41H64N7O19P3S				NA
+M4479	CE5970[x]	5(S),12(R)-dihydroxy-eicosa-2,8-trans-6,14-cis-tetraenoyl-CoA	C41H62N7O19P3S				NA
+M4481	CE5969[r]	10,11-dihydro-LTB4-CoA	C41H64N7O19P3S				NA
+M4482	CE5971[m]	3(S),5(S),12(R)-trihydroxy-eicosa-8-trans-6,14-cis-trienoyl-CoA	C41H64N7O20P3S				NA
+M4483	CE5971[x]	3(S),5(S),12(R)-trihydroxy-eicosa-8-trans-6,14-cis-trienoyl-CoA	C41H64N7O20P3S				NA
+M4521	CE7091[n]	15(R)-hydroperoxy-EPE	C20H29O4				NA
+M4522	CE7091[r]	15(R)-hydroperoxy-EPE	C20H29O4				NA
+M4615	CE6183[m]	18,20-dioxo-20-CoA-leukotriene B4	C41H57N7O22P3S	HMDB12606		53481487	NA
+M4617	CE6183[x]	18,20-dioxo-20-CoA-leukotriene B4	C41H57N7O22P3S	HMDB12606		53481487	NA
+M4624	CE6186[m]	18E-20-oxo-20-CoA-LTB4	C41H57N7O21P3S	HMDB12609			NA
+M4625	CE6182[x]	20-CoA-20-oxo-leukotriene B4	C41H59N7O21P3S	HMDB12632		53481505	NA
+M4626	CE6186[x]	18E-20-oxo-20-CoA-LTB4	C41H57N7O21P3S	HMDB12609			NA
+M4628	CE6182[r]	20-CoA-20-oxo-leukotriene B4	C41H59N7O21P3S	HMDB12632		53481505	NA
+M4630	CE6187[m]	20-CoA-20-oxo-18R-hydroxyleucotriene B4	C41H59N7O22P3S	HMDB12631			NA
+M4631	CE6187[x]	20-CoA-20-oxo-18R-hydroxyleucotriene B4	C41H59N7O22P3S	HMDB12631			NA
+M4639	CE6232[r]	prostaglandin G1	C20H33O6	HMDB13039		53481591	NA
+M4641	CE6192[x]	18(R)-hydroxy-20-oxo-20-CoA-LTE4	C44H64N8O23P3S2	HMDB12605			NA
+M4643	CE6226[x]	16(S)-hydroxy-18-oxo-18-CoA-LTE4	C42H62N8O23P3S2	HMDB12593		53481478	NA
+M4646	CE6190[x]	CoA-20-COOH-LTE4	C44H64N8O22P3S2	HMDB12913			NA
+M4647	CE6191[x]	18E-20-oxo-20-CoA-LTE4	C44H62N8O22P3S2	HMDB12610		53481494	NA
+M4648	CE6204[x]	CoA-18-COOH-16E-dinor-LTE5	C42H58N8O22P3S2				NA
+M4650	CE6225[x]	16E-18-oxo-18-CoA-dinor-LTE4	C42H60N8O22P3S2	HMDB12597		53481482	NA
+M4666	CE5121[m]	trans-3-decenoyl-CoA	C31H48N7O17P3S	HMDB02137		16019966	29126
+M4667	CE5121[x]	trans-3-decenoyl-CoA	C31H48N7O17P3S	HMDB02137		16019966	29126
+M4730	adpcoa[x]	adipoylcoa	C27H39N7O19P3S	HMDB04047	C14143	9543333	34528
+M4732	3bcrn[c]	3-hydroxy butyryl carnitine	C11H21NO5				NA
+M4734	c10crn[c]	decanoyl carnitine	C17H33NO4	HMDB00651		10245190	68830
+M4736	c101crn[c]	decenoyl carnitine	C17H31NO4	HMDB13205		53481651	NA
+M4739	decdicrn[c]	decadienoyl carnitine	C17H29NO4	HMDB13325		53481669	NA
+M4742	c10dc[c]	sebacoyl carnitine	C17H30NO6				NA
+M4746	3deccrn[c]	3-hydroxydecanoylcarnitine	C17H33NO5				NA
+M4747	ddeccrn[c]	lauroyl carnitine	C19H37NO4	HMDB02250		168381	NA
+M4749	ddece1crn[c]	dodecenoyl carnitine	C19H35NO4				NA
+M4750	c12dccoa[x]	dodecanedioylcoa	C33H51N7O19P3S				NA
+M4754	c12dc[c]	dodecanedioyl carnitine	C19H34NO6				NA
+M4757	3ddcrn[c]	3-hydroxydodecanoylcarnitine	C19H37NO5				NA
+M4758	tdcrn[c]	myristoyl carnitine	C21H41NO4	HMDB05066		53477791	NA
+M4762	tetdece1crn[c]	tetradecenoyl carnitine	C21H39NO4	HMDB02014		22833575	NA
+M4763	3tetd7ecoacrn[c]	3-hydroxy tetradecenoyl-7-carnitine	C21H39NO5				NA
+M4768	tetdec2crn[c]	tetradecadienoyl carnitine	C21H37NO4				NA
+M4769	3ttetddcoacrn[c]	3-hydroxy trans5,8tetradecadienoyl carnitine	C21H37NO5				NA
+M4772	3tdcrn[c]	3-hydroxy-tetradecanoyl carnitine	C21H41NO5				NA
+M4774	3hdececrn[c]	3-hydroxyhexadecenoylcarnitine	C23H43NO5				NA
+M4777	3thexddcoacrn[c]	3-hydroxy trans7,10-hexadecadienoyl carnitine	C23H41NO5				NA
+M4780	c16dc[c]	Hexadecanedioic acid mono-L-carnitine ester	C23H42NO6	HMDB00712		566787	NA
+M4783	3hexdcrn[c]	3-hydroxyhexadecanoylcarnitine	C23H45NO5	HMDB13336		53481691	NA
+M4785	3octdece1crn[c]	3-hydroxy-octadecenoyl carnitine	C25H47NO5				NA
+M4787	3octdec2crn[c]	3-hydroxyoctadecadienoylcarnitine	C25H45NO5				NA
+M4789	3octdeccrn[c]	3-hydroxyoctadecanoyl carnitine	C25H49NO5				NA
+M4790	c3dc[c]	malonyl carnitine	C10H16NO6	HMDB02095		22833583	NA
+M4792	c4crn[c]	butyryl carnitine	C11H21NO4	HMDB02013	C02862	439829	7676
+M4796	c4dc[c]	succinyl carnitine	C11H18NO6				NA
+M4799	btcoa[x]	Butanoyl-CoA	C25H38N7O17P3S	HMDB01088	C00136	265	57371
+M4801	ivcrn[c]	isovaleryl carnitine	C12H23NO4	HMDB00688		6426851	NA
+M4802	c51crn[c]	tiglyl carnitine	C12H21NO4	HMDB02366		22833596	NA
+M4803	c5dc[c]	glutaryl carnitine	C12H21NO6	HMDB13130		53481622	NA
+M4806	c6crn[c]	hexanoyl carnitine	C13H25NO4	HMDB00705		6426853	70749
+M4807	hxcoa[x]	Hexanoyl-CoA (n-C6:0CoA)	C27H42N7O17P3S				NA
+M4810	c6dc[c]	adipoyl carnitine	C13H22NO6				NA
+M4812	c8crn[c]	octanoyl carnitine	C15H29NO4	HMDB00791	C02838	11953814	18102
+M4814	c81crn[c]	octenoyl carnitine	C15H27NO4	HMDB13324		53481667	NA
+M4818	c8dc[c]	suberyl carnitine	C15H26NO6				NA
+M4821	dca[c]	Decanoate (n-C10:0)	C10H19O2				NA
+M4828	doco13ecoa[c]	13-docosenoylcoa	C43H72N7O17P3S		C16531	24892791	NA
+M4829	doco13ecoa[x]	13-docosenoylcoa	C43H72N7O17P3S		C16531	24892791	NA
+M4837	docoscoa[x]	docosanoylcoa	C43H74N7O17P3S	HMDB12930		53481548	NA
+M4852	dec24dicoa[m]	2,4-decadienoylcoa	C31H46N7O17P3S	HMDB01168		22833562	NA
+M4853	dece4coa[x]	4-decenoylcoa	C31H48N7O17P3S	HMDB02145		6443609	NA
+M4854	dec24dicoa[x]	2,4-decadienoylcoa	C31H46N7O17P3S	HMDB01168		22833562	NA
+M4855	dc2coa[x]	trans-Dec-2-enoyl-CoA	C31H48N7O17P3S	HMDB03948	C05275	24883423	61406
+M4860	dec47dicoa[x]	4,7-decadienoylcoa	C31H46N7O17P3S				NA
+M4861	dectricoa[x]	2,4,7-decatrienoylcoa	C31H44N7O17P3S				NA
+M4864	2decdicoa[x]	2,7-decadienoylcoa	C31H46N7O17P3S				NA
+M4865	octe5coa[x]	5-octenoylcoa	C29H44N7O17P3S				NA
+M4869	sebcoa[x]	sebacoylcoa	C31H47N7O19P3S				NA
+M4870	sbcoa[x]	suberylcoa	C29H43N7O19P3S				NA
+M4871	tmuncoa[x]	2,6,10-trimethyl undecanoylcoa	C35H58N7O17P3S				NA
+M4875	dd3coa[x]	cis-dodec-3-enoyl-CoA(4-)	C33H52N7O17P3S	HMDB04257	C02944	16061154	58543
+M4878	3ddecdicoa[x]	3,6-dodecadienoylcoa	C33H50N7O17P3S	HMDB03952	C05280	5280771	28002
+M4879	2ddecdicoa[x]	2,6-dodecadienoylcoa	C33H50N7O17P3S	HMDB11123	C05279	53480665	NA
+M4881	2dodtricoa[x]	2,6,9-dodecatrienoylcoa	C33H48N7O17P3S				NA
+M4883	3dodtricoa[x]	3,6,9-dodecatrienoylcoa	C33H48N7O17P3S				NA
+M4886	tmtrdcoa[x]	4,8,12-trimethyl tridecanoylcoa	C37H62N7O17P3S				NA
+M4889	tetde5coa[x]	5-tetradecenoylcoa	C35H56N7O17P3S				NA
+M4891	tetdecdicoa[x]	5,8-tetradecadienoylcoa	C35H54N7O17P3S	HMDB02288		21252281	NA
+M4894	5tedtricoa[x]	5,8,11-tetradecatrienoylcoa	C35H52N7O17P3S				NA
+M4896	c14dccoa[x]	tetradecanedioylcoa	C35H55N7O19P3S				NA
+M4897	hexde7coa[x]	7-hexadecenoylcoa	C37H60N7O17P3S				NA
+M4901	2hexdtricoa[x]	2,7,10-hexadecatrienoylcoa	C37H56N7O17P3S				NA
+M4905	4hexdtricoa[x]	4,7,10-hexadecatrienoylcoa	C37H56N7O17P3S				NA
+M4906	hexdectecoa[x]	2,4,7,10-hexadecatetraenoylcoa	C37H54N7O17P3S				NA
+M4911	2hexdtetcoa[x]	2,7,10,13-hexadecatetraenoylcoa	C37H54N7O17P3S				NA
+M4914	4hexdtetcoa[x]	4,7,10,13-hexadecatetraenoylcoa	C37H54N7O17P3S				NA
+M4915	hexdpencoa[x]	2,4,7,10,13-hexadecapentaenoylcoa	C37H52N7O17P3S				NA
+M4924	ocde9ecoa[x]	9-octadecenoylcoa	C39H64N7O17P3S	HMDB01322	C00510	5280355	15534
+M4929	2octdectecoa[x]	2,6,9,12-octadecatetraenoylcoa	C39H58N7O17P3S				NA
+M4931	3octdectecoa[x]	3,6,9,12-octadecatetraenoylcoa	C39H58N7O17P3S				NA
+M4935	ei11ecoa[x]	11-eicosenoylcoa	C41H68N7O17P3S		C16530	24892790	NA
+M4937	eitetcoa[x]	5,8,11,14-eicosatetraenoylcoa	C41H62N7O17P3S				NA
+M4938	eipencoa[x]	2,5,8,11,14-eicosapentaenoylcoa	C41H60N7O17P3S				NA
+M4941	2docopencoa[x]	2,7,10,13,16-docosapentenoylcoa	C43H64N7O17P3S				NA
+M4943	docohexcoa[x]	2,4,7,10,13,16-docosahexenoylcoa	C43H62N7O17P3S				NA
+M4955	3ivcrn[c]	3-hydroxy-isovaleryl carnitine	C12H23NO5				NA
+M4957	hx2coa[x]	trans-Hex-2-enoyl-CoA	C27H40N7O17P3S	HMDB03944	C05271	5280765	62077
+M4959	hexe3coa[x]	3-hexenoylcoa	C27H40N7O17P3S	HMDB06522		53477848	NA
+M4961	succoa[x]	Succinyl-CoA	C25H35N7O19P3S	HMDB01022	C00091	439161	57292
+M4974	octd11ecoa[c]	11-octadecenoylcoa	C39H64N7O17P3S				NA
+M4975	ocdececrn[c]	11-octadecenoyl carnitine	C25H47NO4	HMDB06351		53477830	NA
+M4977	octdececrn[c]	octadecenoyl carnitine (hypothetical, position of double bond unknown)	C25H47NO4				NA
